@@ -9,7 +9,7 @@ toc_label: TOC
 toc_icon: "fire" 
 --- 
 
-<p>AIA Bhd. is looking for new potential candidates to fill in for <b>Senior Associate, Medical Case and Knowledge Management (1-year Contract)</b> position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job.
+<p>AIA Bhd. is looking for new potential candidates to fill in for <b>Senior Associate, Medical Case and Knowledge Management (1-year Contract)</b> position. If you currently looking for new healthcare job opportunities and qualified with the job desc, feel free to apply this job.
 </p>{% include link-adsense.html %} 
 <div><div><h4>Job Highlights</h4></div><div><ul><li><div><div><div><div></div></div></div><div><span>Specially looking for talented candidates</span></div></div></li><li><div><div><div><div></div></div></div><div><span>Join a high performing team</span></div></div></li><li><div><div><div><div></div></div></div><div><span>Fast-paced environment</span></div></div></li></ul></div></div> 
 {% include 300-adsense.html %} 

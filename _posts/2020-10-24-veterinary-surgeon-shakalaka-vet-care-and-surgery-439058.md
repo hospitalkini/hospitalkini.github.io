@@ -9,7 +9,7 @@ toc_label: TOC
 toc_icon: "fire" 
 --- 
 
-<p>Shakalaka Vet Care and Surgery is looking for new potential candidates to fill in for <b>VETERINARY SURGEON</b> position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job.
+<p>Shakalaka Vet Care and Surgery is looking for new potential candidates to fill in for <b>VETERINARY SURGEON</b> position. If you currently looking for new healthcare job opportunities and qualified with the job desc, feel free to apply this job.
 </p>{% include link-adsense.html %} 
 <div><div><h4>Job Description</h4></div><div><div><span><div><ul><li>Candidate must possess at least Bachelor's Degree/Post Graduate Diploma/Professional Degree in Veterinary or equivalent.</li><li>No work experience required.</li><li>Fresh graduates are encouraged to apply.&#160;</li><li>Able to examine and treat small animals.</li><li>Able to diagnose illnesses and determine the best treatment of a wide range of animal conditions.</li><li>Able to dress wounds of injured animals.</li><li>Able to prescribe medications to animals.</li><li>Have the knowledge of neutering cats and dogs.</li><li>Able to work on weekends and extra hours.</li></ul><div>YOU CAN ALSO CALL US AT : 088-778574 / 016-6058586</div></div></span></div></div></div> 
 {% include 300-adsense.html %} 

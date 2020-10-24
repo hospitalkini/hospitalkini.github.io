@@ -9,7 +9,7 @@ toc_label: TOC
 toc_icon: "fire" 
 --- 
 
-<p>Econ Medicare Centre And Nursing Home Sdn Bhd is looking for new potential candidates to fill in for <b>Internship for Business Studies/Administration Students</b> position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job.
+<p>Econ Medicare Centre And Nursing Home Sdn Bhd is looking for new potential candidates to fill in for <b>Internship for Business Studies/Administration Students</b> position. If you currently looking for new healthcare job opportunities and qualified with the job desc, feel free to apply this job.
 </p>{% include link-adsense.html %} 
 <div><div><h4>Job Description</h4></div><div><div><span><div>Responsibilities:
 DUTIES &amp; RESPONSIBILITIES

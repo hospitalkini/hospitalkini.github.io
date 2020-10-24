@@ -9,7 +9,7 @@ toc_label: TOC
 toc_icon: "fire" 
 --- 
 
-<p>Jora Jobs is looking for new potential candidates to fill in for <b>Dental Surgery Assistant cum Front Desk</b> position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job.
+<p>Jora Jobs is looking for new potential candidates to fill in for <b>Dental Surgery Assistant cum Front Desk</b> position. If you currently looking for new healthcare job opportunities and qualified with the job desc, feel free to apply this job.
 </p>{% include link-adsense.html %} 
 <div><div><h4>Job Description</h4></div><div><div><span><div><div><strong>Dentalville Sdn Bhd</strong></div><ul><li>Prepare and sterilise dental instruments and equipment.</li><li>Perform customer service duties at the front desk such as handling patient registration, appointment booking, answering phone calls and attending to patients' enquiries.</li><li>Familiarise yourself with and effectively use our patient recall system.</li><li>Collect payment, issue receipts and simple book-keeping.</li><li>Perform administrative duties such as filing, data entry, checking mail and stock-taking.</li><li>Perform other duties as may be assigned from time to time, such as assisting in preparing, sterilising and maintenance of dental instruments and clinic facilities.</li></ul></div></span></div></div></div> 
 {% include 300-adsense.html %} 

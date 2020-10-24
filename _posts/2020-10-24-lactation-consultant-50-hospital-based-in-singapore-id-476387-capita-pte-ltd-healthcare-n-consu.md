@@ -9,7 +9,7 @@ toc_label: TOC
 toc_icon: "fire" 
 --- 
 
-<p>Capita Pte Ltd - Healthcare is looking for new potential candidates to fill in for <b>Lactation Consultant $5000 (Hospital / Based in Singapore) (ID: 476387)</b> position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job.
+<p>Capita Pte Ltd - Healthcare is looking for new potential candidates to fill in for <b>Lactation Consultant $5000 (Hospital / Based in Singapore) (ID: 476387)</b> position. If you currently looking for new healthcare job opportunities and qualified with the job desc, feel free to apply this job.
 </p>{% include link-adsense.html %} 
 <div><div><h4>Job Description</h4></div><div><div><span><div><div><strong>Job Responsibilities:</strong><br>&#8226; Assist in reviewing and developing policies and guidelines for breastfeeding management.<br>&#8226; Responsible for promoting breastfeeding management education.<br>&#8226; Ensure patient&#8217;s satisfaction in services provided.<br>&#8226; Coordinate events to promote organisation&#8217;s maternity services.<br>&#8226; Perform any other ad-hoc assigned duties and tasks.</div><div><strong>Job Requirements:</strong><br>&#8226; Possess qualification in lactation course.<br>&#8226; Min 1 year relevant experience.</div><div>Interested candidates who wish to apply for the advertised position, please email us an updated copy of your resume or contact our office at +65 6709 3505 for a confidential discussion.</div><div>Job Code: JIE<br>Email Address: nursing@capitasingapore.com<br>EA License No.: 08C2893</div></div></span></div></div></div> 
 {% include 300-adsense.html %} 

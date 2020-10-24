@@ -9,7 +9,7 @@ toc_label: TOC
 toc_icon: "fire" 
 --- 
 
-<p>Joseph Ting & Co. is looking for new potential candidates to fill in for <b>Housemaid Domestic Helper Babysitter</b> position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job.
+<p>Joseph Ting & Co. is looking for new potential candidates to fill in for <b>Housemaid Domestic Helper Babysitter</b> position. If you currently looking for new healthcare job opportunities and qualified with the job desc, feel free to apply this job.
 </p>{% include link-adsense.html %} 
 <div><div><h4>Job Description</h4></div><div><div><span><div><ul><li>Working hours can be Monday - Friday (9am - 6pm / 12pm - 6pm) or live-in with one-day off (salary varies)</li><li>Housekeeping, housecleaning, taking care of two children 4 and 5 years old (after school at 1pm)</li><li>Possess positive traits such as patience, gentleness, self control and genuinely loves children</li><li>Ideal for those who wants to work under minimal supervision and likes children</li></ul></div></span></div></div></div> 
 {% include 300-adsense.html %} 

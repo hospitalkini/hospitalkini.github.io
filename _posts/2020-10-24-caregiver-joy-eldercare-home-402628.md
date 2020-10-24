@@ -9,7 +9,7 @@ toc_label: TOC
 toc_icon: "fire" 
 --- 
 
-<p>JOY ELDERCARE HOME is looking for new potential candidates to fill in for <b>Caregiver</b> position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job.
+<p>JOY ELDERCARE HOME is looking for new potential candidates to fill in for <b>Caregiver</b> position. If you currently looking for new healthcare job opportunities and qualified with the job desc, feel free to apply this job.
 </p>{% include link-adsense.html %} 
 <div><div><h4>Job Description</h4></div><div><div><span><div><div><strong>Responsibilities:</strong></div><div><ul><li>Assisting with personal care, which may include bathroom functions, bathing, grooming, dressing, and eating.</li><li>Following a prescribed healthcare plan, which may include assisting with exercise and administering medication.</li><li>Monitoring and reporting changes in health, behavior, and needs.</li></ul><div><strong>Requirements:</strong></div><div><ul><li>Education: no requirement</li><li>Year of Experience: minimum 1 year in eldercare/ patient care industry</li><li>Skills: Preferred if candidate is equipped with basic nursing skills</li><li>Job-Type : Full time</li><li>Must be able to speak in Bahasa Malaysia</li><li>Added advantage if can speak fluently in Mandarin/English</li></ul></div></div></div></span></div></div></div> 
 {% include 300-adsense.html %} 

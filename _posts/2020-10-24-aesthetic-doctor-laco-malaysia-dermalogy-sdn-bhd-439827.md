@@ -9,7 +9,7 @@ toc_label: TOC
 toc_icon: "fire" 
 --- 
 
-<p>LACO MALAYSIA DERMALOGY SDN. BHD. is looking for new potential candidates to fill in for <b>Aesthetic Doctor</b> position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job.
+<p>LACO MALAYSIA DERMALOGY SDN. BHD. is looking for new potential candidates to fill in for <b>Aesthetic Doctor</b> position. If you currently looking for new healthcare job opportunities and qualified with the job desc, feel free to apply this job.
 </p>{% include link-adsense.html %} 
 <div><div><h4>Job Description</h4></div><div><div><span><div><ul><li>Candidate must possess at least Bachelor's Degree/Post Graduate Diploma/Professional Degree in Physics or equivalent.</li><li>Required language(s):&#160;Bahasa Malaysia, English, Mandarin</li><li>At least 2&#160;Year(s) of working experience in the related field is required for this position.</li><li>Preferably Senior Executive specialized in Healthcare - Doctor/Diagnosis or equivalent.</li></ul></div></span></div></div></div> 
 {% include 300-adsense.html %} 

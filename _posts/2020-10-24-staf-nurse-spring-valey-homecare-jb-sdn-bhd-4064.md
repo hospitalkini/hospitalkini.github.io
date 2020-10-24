@@ -9,7 +9,7 @@ toc_label: TOC
 toc_icon: "fire" 
 --- 
 
-<p>Spring Valley Homecare (JB) Sdn Bhd is looking for new potential candidates to fill in for <b>Staff Nurse</b> position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job.
+<p>Spring Valley Homecare (JB) Sdn Bhd is looking for new potential candidates to fill in for <b>Staff Nurse</b> position. If you currently looking for new healthcare job opportunities and qualified with the job desc, feel free to apply this job.
 </p>{% include link-adsense.html %} 
 <div><div><h4>Job Description</h4></div><div><div><span><div><p>JOB DESCRIPTION:</p><ul><li>Responsible for ward patients' daily medication &amp; dressing if needed.</li><li>To communicate with patients' family with patients' condition</li><li>Prepare patients' summary for medical appointments&#160;</li><li>Maintain adequate daily record of ward issues.</li></ul><p>REQUIREMENTS</p><ul><li>Candidate must possess at least Professional Certificate or Diploma in Nursing or equivalent.</li><li>Registered with the Malaysian Nursing Board, preferably possess the latest APC.</li><li>Required language(s):&#160;Bahasa Malaysia, English. Mandarin will be an advantage.</li><li>Fresh graduate is also encourage to appy.</li><li>Required Skill(s): basic nursing skills, communication skills</li><li>Preferably Junior Executive specialized in Healthcare - Nurse/Medical Support &amp; Assistant or equivalent.</li></ul></div></span></div></div></div> 
 {% include 300-adsense.html %} 

@@ -9,7 +9,7 @@ toc_label: TOC
 toc_icon: "fire" 
 --- 
 
-<p>Glow International Malaysia Sdn Bhd is looking for new potential candidates to fill in for <b>Aesthetics Doctor</b> position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job.
+<p>Glow International Malaysia Sdn Bhd is looking for new potential candidates to fill in for <b>Aesthetics Doctor</b> position. If you currently looking for new healthcare job opportunities and qualified with the job desc, feel free to apply this job.
 </p>{% include link-adsense.html %} 
 <div><div><h4>Job Highlights</h4></div><div><ul><li><div><div><div><div></div></div></div><div><span>Awesome benefits with flexible working environment</span></div></div></li><li><div><div><div><div></div></div></div><div><span>Great learning and development opportunities</span></div></div></li><li><div><div><div><div></div></div></div><div><span>Growing and fast-paced environment</span></div></div></li></ul></div></div> 
 {% include 300-adsense.html %} 

@@ -9,7 +9,7 @@ toc_label: TOC
 toc_icon: "fire" 
 --- 
 
-<p>URGROUP is looking for new potential candidates to fill in for <b>Aesthetic Doctor</b> position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job.
+<p>URGROUP is looking for new potential candidates to fill in for <b>Aesthetic Doctor</b> position. If you currently looking for new healthcare job opportunities and qualified with the job desc, feel free to apply this job.
 </p>{% include link-adsense.html %} 
 <div><div><h4>Job Description</h4></div><div><div><span><div><div>Job Requirement:</div><ul><li>At least 2 Year(s) of working experience in the related field</li><li>Required Skill(s):</li><li>Preferably Senior Executive specialized in Healthcare - Doctor/Diagnosis or equivalent.</li><li>Candidate must be a registered doctor with KKM</li><li>Passion in aesthetic industry</li><li>Required language(s):&#160;Bahasa Malaysia, English, Mandarin</li></ul></div></span></div></div></div> 
 {% include 300-adsense.html %} 

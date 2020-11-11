@@ -1,0 +1,28 @@
+---
+title: "International Committee of the Red Cross Vacancies Detention Doctor" 
+category: Jobs 
+date: 2020-11-11 
+excerpt: "International Committee of the Red Cross is currently looking for suitable person to fill in the Detention Doctor which positioned at Kuala Lumpur" 
+tags: [Kuala Lumpur] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>International Committee of the Red Cross is looking for new potential candidates to fill in for <b>Detention Doctor</b> position. If you currently looking for new healthcare job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include link-adsense.html %} 
+<div><div><div><h4>Job Description</h4></div></div><div><div><span><div><div><div>The International Committee of the Red Cross (ICRC) is an impartial, neutral and independent organization whose exclusively humanitarian mission is to protect the lives and dignity of victims of armed conflicts and other situations of violence and to provide them with assistance. It directs and coordinates the international relief activities conducted by the International Red Cross and Red Crescent Movement in situations of conflict. It also endeavours to prevent suffering by promoting and strengthening humanitarian law and universal humanitarian principles.</div><div>The ICRC is looking to recruit a Detention Doctor for its Regional Delegation in Kuala Lumpur. The successful candidate will join the Protection Department, which is responsible for implementing the Regional Delegation's programmes related to persons deprived of liberty.</div><div><strong>Detention Doctor</strong></div><div><strong>Main duties and responsibilities</strong></div><ul><li>Participate to visits to prisons and immigration detention centres to assess the access to healthcare and provide technical advice.</li><li>Contribute to the implementation of follow up tasks after a detention visit (follow up of individual cases and medical database).</li><li>Contribute to the health reporting related to detention and migration activities.</li><li>Together with the mobile doctor, give guidance on healthcare in detention in Malaysia.</li><li>Map and network with health authorities and organisations.</li><li>Organise medical assistance to places of detention.</li><li>Together with the mobile doctor, identify healthcare in detention needs and develop the appropriate response.</li><li>Coordinate the action with the protection team.</li><li>Translate documents from Malay to English and vice-versa.</li><li>Assist the Regional Delegation in the further development of its protection objectives, strategies and activities.</li><li>Respect the ICRC's principle of confidentiality at all times.</li></ul><div><strong>Education</strong></div><ul><li>University Degree in Medicine (medical doctor).</li></ul><div><strong>Qualifications and Experience:</strong></div><ul><li>Motivation and commitment to humanitarian work.</li><li>Strong organisational and planning skills, attention to details.</li><li>Good interpersonal and networking skills.</li><li>Good communication, presentation, organizational and analytical skills.</li><li>Ability to work in a team and independently.</li><li>Excellent command of written and spoken English and Bahasa Malaysia &#8211; knowledge of other languages of the region an asset.</li><li>Ability and willingness to travel throughout Malaysia.</li><li>Knowledge of the Red Cross/Red Crescent Movement would be an advantage.</li><li>Previous experience working in an international organisation preferred.</li></ul><div><strong>WE OFFER</strong></div><ul><li>A national contract with a competitive compensation and social package.</li><li>A challenging job in a learning organisation with development opportunities.</li><li>The opportunity to be part of an internationally renowned humanitarian organisation.</li></ul><div>This position is open only to Malaysian Residents. Closing Date: 10 December 2020</div><div>Please note that only short-listed candidates will be contacted for tests and interviews.</div></div></div></span></div></div></div> 
+{% include 300-adsense.html %} 
+<div><div><div><h4>Company Overview</h4></div></div><div><div><span><div><div>Established in 1863, the ICRC operates worldwide, helping people affected by conflict and armed violence and promoting the laws that protect victims of war. An independent and neutral organization, its mandate stems essentially from the Geneva Conventions of 1949. We are based in Geneva, Switzerland, and employ over 18,000 people in over 90 countries. The ICRC is funded mainly by voluntary donations from governments and from National Red Cross and Red Crescent Societies.</div>
+<div>
+<div>
+<div>
+<div>The ICRC has worked for nearly 100 years in Asia, working from 12 delegations overseeing programmes in over 20 countries throughout the region.&#160; The Regional Delegation based in Kuala Lumpur covers activities and programmes in Malaysia, Singapore and Brunei.&#160;</div>
+</div>
+</div>
+</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream hospital job in Kuala Lumpur. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/detention-doctor-4419964?jobId=jobstreet-my-job-4419964&sectionRank=5&token=0~c85915ea-57c0-4550-ac5e-9643b1233679&fr=SRP%20View%20In%20New%20Ta" class="btn btn--warning" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include link-adsense.html %} 

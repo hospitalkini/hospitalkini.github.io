@@ -1,0 +1,21 @@
+---
+title: "PROTECTHEALTH CORPORATION SDN. BHD. Vacancies Head of Operations" 
+category: Jobs 
+date: 2020-11-14 
+excerpt: "PROTECTHEALTH CORPORATION SDN. BHD. is currently looking for suitable person to fill in the Head of Operations which positioned at Cyberjaya" 
+tags: [Cyberjaya] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>PROTECTHEALTH CORPORATION SDN. BHD. is looking for new potential candidates to fill in for <b>Head of Operations</b> position. If you currently looking for new healthcare job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include link-adsense.html %} 
+<div><div><div><h4>Job Description</h4></div></div><div><div><span><div><p><strong>ROLE DESCRIPTION</strong></p><p>Direct, oversee and manage the whole Operations Department in achieving the strategic development of the organisation&#8217;s business with the aim of acquiring profitable portfolio in order to support company&#8217;s overall strategy, goals and initiatives.</p><p><strong>JOB RESPONSIBILITIES</strong></p><p>1.&#160;&#160;&#160;To lead, manage and develop the Operations Department activities and initiatives to ensure the achievement of highest possible standards of excellence in all business activities and objectives.</p><p>2.&#160;&#160;&#160;Planning and monitoring the day-to-day running of business to ensure smooth progress; especially for Claims Management Section and Customer Relationship Management (Call Centre) Section and other related operations roles / functions.</p><p>3.&#160;&#160;&#160;To ensure the achievement of simplifying SOPs and guidelines to support our Business Channel.</p><p>4.&#160;&#160;&#160;Liaising with the Management to make decisions for operational activities and set strategic goals.</p><p>5.&#160;&#160;&#160;Roll out new initiatives and/or implementation of changes that may be necessary to improve and enhancing client servicing as well as operational efficiencies.</p><p>6.&#160;&#160;&#160;To ensure that operational priorities are aligned with total company directions, works across the organization to understand, influence and execute strategies that support new products and services</p><p>7.&#160;&#160;&#160;Ensure success in regulated environment that reinforce compliance to appropriate laws, regulations and/or guidelines</p><p>8.&#160;&#160;&#160;Ensure consistent &amp; effective execution of key systems &amp; processes that make effective use of organizational resources and creates systems, processes and decisions that enhance operational efficiency</p><p>9.&#160;&#160;&#160;To procure and ensure automated straight through system to establish effectiveness and efficiency internally.&#160;</p><p>10. Ensure that the company runs with legality and conformity to the regulating authorities.</p><p><strong>Requirements:</strong></p><p>1.&#160;&#160;&#160;Bachelor&#8217;s Degree or equivalent</p><p>2.&#160;&#160;&#160;Minimum of 8 years of working experience in healthcare or related industry</p><p>3.&#160;&#160;&#160;Good knowledge in medical claims processing and customer service scope of works will be an added advantage</p><p>4.&#160;&#160;&#160;Strong IT knowledge is an added bonus</p><p>5.&#160;&#160;&#160;Strong business acumen and interface with various stakeholders</p></div></span></div></div></div> 
+{% include 300-adsense.html %} 
+<div><div><div><h4>Company Overview</h4></div></div><div><div><span><div><p>Incorporated on 19 December 2016, ProtectHealth Corporation Sdn Bhd (ProtectHealth) is a wholly-owned subsidiary of ProtectHealth Malaysia, established under the Ministry of Health, Malaysia (MOH).</p><p>As a not-for-profit company, ProtectHealth coordinates, administers and manages initiatives related to financing healthcare services as mandated by MOH.</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream hospital job in Cyberjaya. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/head-of-operations-4423512?jobId=jobstreet-my-job-4423512&sectionRank=3&token=0~0135f55e-a9e3-4fe4-a1c4-5e72bdd6b821&fr=SRP%20View%20In%20New%20Ta" class="btn btn--warning" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include link-adsense.html %} 

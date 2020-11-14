@@ -1,0 +1,21 @@
+---
+title: "QA Employment Consultant Pte Ltd Vacancies STAFF NURSE TO WORK IN SG HOSPITAL" 
+category: Jobs 
+date: 2020-11-14 
+excerpt: "QA Employment Consultant Pte Ltd is currently looking for suitable person to fill in the STAFF NURSE TO WORK IN SG HOSPITAL which positioned at Singapore" 
+tags: [Singapore] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>QA Employment Consultant Pte Ltd is looking for new potential candidates to fill in for <b>STAFF NURSE TO WORK IN SG HOSPITAL</b> position. If you currently looking for new healthcare job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include link-adsense.html %} 
+<div><div><div><h4>Job Description</h4></div></div><div><div><span><div><div>STAFF NURSE TO WORK IN SG HOSPITAL&#160; &#160;&#160;</div><ul><li>SHIFT WORK&#160;</li><li>WORK IN ESTABLISHED HOSPITAL&#160;</li><li>CAREER GROWTH&#160;</li><li>GOOD LEARNING OPPORTUNITY&#160;</li></ul><div>Job Scopes:&#160;</div><ul><li>Provide ADL to patients and attend to patient's needs</li><li>Perfrom vital signs and ECG on patient&#160;&#160;</li><li>Administer medications, injections, IVs thereapy to patient&#160;</li><li>Plan, implement and evaluate nursing care plan for patient&#160;</li><li>Work closely with Doctor and other healthcare professionals to provide treatment care plan for patient&#160; &#160;</li><li>General nursing administrative duties&#160;</li></ul><div>Requirements:&#160;</div><ul><li>Diploma or Degree in Nursing certificate&#160;</li><li>Minimum 2years of inpatient experience in Malaysia government hospital&#160;&#160;</li><li>Registered with Malaysia Nursing Board&#160;</li><li>Preferably to start immediate or with short notice period&#160;</li></ul><div>Interested applicants kindly furnish us with your detailed resume to serene@qa.sg&#160;&#160;&#160;<div>We regret to inform only shortlisted candidates will be notified</div>QA Employment Consultant Pte Ltd is committed to safeguarding your personal data in accordance with the Personal Data Protection Act (PDPA).<br><br>Wong Li Yong Serene<br>EA Registration No: R1109510<br>License No: 04C5357</div></div></span></div></div></div> 
+{% include 300-adsense.html %} 
+<div><div><div><h4>Company Overview</h4></div></div><div><div><span><div><div>Recognized from 2004 till present, QA employment has firmly established itself as a frontier to your employment needs. Our quality oriented approach in the healthcare/ medical industry has seen us growing in strength in providing fully accredited professionals to help ease unnecessary hassles for individuals and to offer best staffing solutions for our corporate clients.</div><div>QA&#8217;s committed and well dedicated team of Consultants aim to make it an ease in your job search experience, tailored right down to your individual needs and work preferences. With a variety of challenging positions available, you can definitely find fulfillment in seeking your dream job here. Friendliness and sensitivity are what we take pride in, when listening to you. We do our best to get the right person for the right job.</div><div>Our strong and long term partnerships with our corporate clients and extensive membership database will help to enhance our reputation as your provider of choice. Our extensive approach has helped to benefit many jobseekers and companies alike with a great deal of flexibility from full time placement, contract to part time assignments.</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream hospital job in Singapore. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/staff-nurse-to-work-in-sg-hospital-8197157/origin/sg?jobId=jobstreet-sg-job-8197157&sectionRank=26&token=0~0135f55e-a9e3-4fe4-a1c4-5e72bdd6b821&fr=SRP%20View%20In%20New%20Ta" class="btn btn--warning" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include link-adsense.html %} 

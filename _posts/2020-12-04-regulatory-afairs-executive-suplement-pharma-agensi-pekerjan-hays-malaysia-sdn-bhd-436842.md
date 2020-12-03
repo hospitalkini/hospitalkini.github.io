@@ -1,0 +1,21 @@
+---
+title: "Agensi Pekerjaan Hays (Malaysia) Sdn Bhd Vacancies Regulatory Affairs Executive (Supplement, Pharma)" 
+category: Jobs 
+date: 2020-12-04 
+excerpt: "Agensi Pekerjaan Hays (Malaysia) Sdn Bhd is currently looking for suitable person to fill in the Regulatory Affairs Executive (Supplement, Pharma) which positioned at Petaling Jaya" 
+tags: [Petaling Jaya] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Agensi Pekerjaan Hays (Malaysia) Sdn Bhd is looking for new potential candidates to fill in for <b>Regulatory Affairs Executive (Supplement, Pharma)</b> position. If you currently looking for new healthcare job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include link-adsense.html %} 
+<div><div><div><h4>Job Description</h4></div></div><div><div><span><div><p>A Regulatory Affairs Executive position from a global leading pharmaceutical company<br><br><strong><br>Your new company</strong><br>Our client holds a premier position within the pharmaceutical/supplement healthcare industry. With a brand that is recognized worldwide and strong presence in Malaysia and worldwide. They have excellent reputation for providing rich legacy of innovation and a robust pipeline of promising new medicines/supplement to help patients.<br><br><strong><br>Your new role</strong><br>Under the Regulatory Affairs division, you will participate in preparing registration dossier and reporting to the Senior Regulatory Affairs Manager, this position will be responsible for:</p><ul><li>Developing and executing regulatory strategies associated with the launch of a new portfolio.</li><li>Assist in registration summation for both ethical drugs and supplements</li><li>Keep up to date with any new directive or notice issued by NPRA (National Pharmaceutical Regulatory Agency)</li><li>You will work closely with the medical and marketing team to ensure continued growth and market penetration.</li></ul><p><br><strong>What you'll need to succeed</strong><br>To qualify, you will possess a scientific degree (BSc, MSc):</p><ul><li>With 1+ years of regulatory experience in pharmaceutical/supplement company.</li><li>Extensive pharmaceutical industry experience in supplement registration will be in advantage</li><li>Good written and communications skills Knowledge on drug product registration</li></ul><p><br><strong>What you'll get in return</strong><br>We offer exciting job exposure in product registration. In keeping with such an opportunity a highly attractive remuneration package is available to the successful candidate.<br><br><strong>What you need to do now</strong><br>If you are interested in the above opportunity, please forward your latest resume to Angela.Fung@hays.com.my or contact <strong>Angela</strong> at <strong>+60376118679</strong> for more information. If this role isn't quite right for you but you are looking to explore new opportunities in the life science sector, please contact Angela for a confidential discussion about your options.</p></div></span></div></div></div> 
+{% include 300-adsense.html %} 
+<div><div><div><h4>Company Overview</h4></div></div><div><div><span><div>At Hays, we believe the right job can transform a person's life and right person can transform a business. We're passionate about connecting our candidates with the right job for them. To connect with a recruiting expert at Hays, visit us at www.hays.com.sg or follow Hays on LinkedIn - The #1 Recruiter on LinkedIn globally.</div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream hospital job in Petaling Jaya. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/regulatory-affairs-executive-supplement-pharma-4436842?jobId=jobstreet-my-job-4436842&sectionRank=3&token=0~3777ec59-c98c-43f1-aabc-125bec256834&fr=SRP%20View%20In%20New%20Ta" class="btn btn--warning" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include link-adsense.html %} 

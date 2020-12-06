@@ -20,7 +20,7 @@ title                    : " "
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "HospitalKini.com"
-description              : "Jawatan Kosong Hospital. Malaysia hospital jobs 2020 / 2021"
+description              : "Jawatan Kosong Hospital 2021. Malaysia hospital jobs vacancies 2021"
 url                      : "https://hospitalkini.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"

@@ -1,0 +1,22 @@
+---
+title: "Sunway Medical Centre Sdn Bhd Vacancies Staff Nurse" 
+category: Jobs 
+date: 2020-12-17 
+excerpt: "Sunway Medical Centre Sdn Bhd is currently looking for suitable person to fill in the Staff Nurse which positioned at Selangor" 
+tags: [Selangor] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Sunway Medical Centre Sdn Bhd is looking for new potential candidates to fill in for <b>Staff Nurse</b> position. If you currently looking for new healthcare job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include link-adsense.html %} 
+<div><div><div><h4>Job Description</h4></div></div><div><div><span><div><div><strong>SunMed@Home is Hiring!</strong></div><div>SunMed @ Home is a home nursing service that caters to clients&#8217; expectations through safety, commitment and compassion in delivering care. This multi-disciplinary service combines expertise from nursing to dietetics to physiotherapy, just to name a few.</div><div>Our team of dedicated skilled professionals provides support and nursing care at the convenience of a patient&#8217;s home as part of a holistic integrated care to patients.</div><div>We believe in long term follow-up care to patients and engagement of caregivers. As part of Sunway Medical Centre, an ACHS accredited tertiary hospital, our services are offered on a platform of reliability and quality.</div><div><strong>What&#8217;s your job like?</strong></div><ul><li>To provide services to patients that need in-home monitoring, those who require adjustments to treatment regimens often, and patients with medical conditions that require frequent assessments and care plan changes</li><li>Ensure that the dignity, comfort and safety of patient respected at all times, and codes of confidentiality in tandem with hospital policies and standards</li><li>Observe that correct procedures and infection control are strictly followed according to best practice, and that all documentation is completed accurately and timely</li><li>Ensure that staff practices any other guidelines deemed necessary for the provision of care.</li></ul><div><strong>Who are we looking for?</strong></div><ul><li>Possess at least Diploma or Degree in Nursing with 3 years clinical experience in a tertiary hospital. Gerontology or home nursing background will be an added advantage</li><li>State Registered Nurse with Malaysia Nursing Board and possess valid Annual Practicing Certificate.</li><li>Knowledge of healthcare related Acts, regulations and accreditation standards</li><li>Proficient in different language/dialect will be an added advantage</li><li>Must be meticulous and able to work independently</li><li><strong>Possess own transport</strong></li></ul><div><strong>Why you should consider this opportunity?</strong></div><ul><li>We are accessible via BRT-SunMed station and located near various amenities / shopping mall/ eateries etc</li><li>We respect each other and maintaining utmost professionalism. Yes, we mean it as we are dealing with one&#8217;s life.</li></ul><div><strong>The hiring process</strong></div><ul><li>The average processing is around 2-4 week.</li><li>Subsequently, our recruitment team will reach out to shortlisted candidates for interview arrangements</li></ul></div></span></div></div></div> 
+{% include 300-adsense.html %} 
+<div><div><div><h4>Company Overview</h4></div></div><div><div><span><div><div>
+	Sunway Medical Centre Sdn Bhd is a multi-disciplinary acute tertiary care hospital, located within the integrated properties of Bandar Sunway. We have established many Centres of Excellence and take pride in providing the highest standard of care and treatment to our patients. A highly-accredited hospital, we are internationally certified with the Australian Council on Healthcare Standards (ACHS) and its laboratory is the first in Malaysia to be awarded the Westgard Sigma Verification and is also certified by Standards Malaysia (MS ISO 15189).</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream hospital job in Selangor. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/staff-nurse-4445682?jobId=jobstreet-my-job-4445682&sectionRank=25&token=0~5ea3285b-58a2-47b1-bc95-11d65e76a90b&fr=SRP%20View%20In%20New%20Ta" class="btn btn--warning" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include link-adsense.html %} 

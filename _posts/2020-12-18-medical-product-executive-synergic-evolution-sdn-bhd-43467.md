@@ -1,0 +1,21 @@
+---
+title: "Synergic Evolution Sdn Bhd Vacancies Medical Product Executive" 
+category: Jobs 
+date: 2020-12-18 
+excerpt: "Synergic Evolution Sdn Bhd is currently looking for suitable person to fill in the Medical Product Executive which positioned at Kuala Lumpur, Selangor" 
+tags: [Kuala Lumpur, Selangor] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Synergic Evolution Sdn Bhd is looking for new potential candidates to fill in for <b>Medical Product Executive</b> position. If you currently looking for new healthcare job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include link-adsense.html %} 
+<div><div><div><h4>Job Description</h4></div></div><div><div><span><div><div><strong>Key Roles &amp; Responsibilities:</strong><ul><li>Represent company to promote and sell medical products to the medical professionals and end users.</li><li>Develop and maintain good rapport and positive working relationships with the potential and existing clients.</li><li>Prepare report and present it to your immediate supervisor.</li><li>Expands and penetrates market with our high end medical products.</li><li>Assist clients in the Operating Theatre with good product knowledge.</li><li>Work closely with the Purchasing Department of each hospital.</li><li>Secure and follow up on payments from hospital after each case.</li><li>Strive hard and work smart to achieve the sales target given.</li><li>Participate in the marketing events.</li><li>Identify and resolves clients' concern.</li><li>Willing to be on call and on the go.</li><li>Fast learner.</li><li>Resolves customer questions related to orders, pricing, samples, etc.</li><li>Provides support to sales team on quotes, pricing and order follow-up</li></ul>&#160;<strong>Requirements:</strong><ul><li>Candidate must possess at least a Bachelor's Degree, Post Graduate Diploma, Professional Degree, any field.</li><li>Required language(s): Bahasa Malaysia, English</li><li>At least 1 year(s) of working experience in the related field is required for this position.</li><li>Preferably Junior Executives with <strong>sales experience in Orthopaedic, Spine and Neuro segment.</strong></li><li>Have a strong customer base in related field.</li><li>Strong presentation skills and ability to present in front of small groups</li><li>Full-Time position(s) available.</li><li>Posses own car.</li><li>Aggressive</li><li>Neat and tidy appearance</li></ul>&#160;<strong>We provide good remuneration package;</strong><ul><li>Reimbursement of expenses eg; Outstation mileage , toll, meal, entertainment</li><li>Life and medical insurance</li><li>Car and mobile phone allowances</li><li>Commission will be given if hit target and will increase by percentage</li><li>Daily allowance&#160;</li><li>EPF and Sosco</li><li>Competitive work benefit package</li><li>Opportunity to travel abroad</li></ul>&#160;&#160;&#160;* Interview expenses is on your own expenses.</div></div></span></div></div></div> 
+{% include 300-adsense.html %} 
+<div><div><div><h4>Company Overview</h4></div></div><div><div><span><div><p>SYNERGIC EVOLUTION SDN BHD is a high end medical devices supplier. We supply high end and latest technology spinal implants and provide cutting edge procedures for patients with spinal problems. Our customers are mainly Spine Surgeon &amp; Neuro Surgeon from the hospitals from northern, central and southern region. We are looking forward to expand our market share to the whole region in Malaysia, Singapore and Brunei.</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream hospital job in Kuala Lumpur, Selangor. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/medical-product-executive-4434467?jobId=jobstreet-my-job-4434467&sectionRank=3&token=0~33ec8955-4fab-4e80-b008-1f291e39466c&fr=SRP%20Job%20Listin" class="btn btn--warning" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include link-adsense.html %} 

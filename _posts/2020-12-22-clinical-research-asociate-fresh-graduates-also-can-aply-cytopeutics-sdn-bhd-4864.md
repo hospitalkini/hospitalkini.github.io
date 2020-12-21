@@ -1,0 +1,22 @@
+---
+title: "Cytopeutics Sdn Bhd Vacancies CLINICAL RESEARCH ASSOCIATE (Fresh Graduates Also Can Apply)" 
+category: Jobs 
+date: 2020-12-22 
+excerpt: "Cytopeutics Sdn Bhd is currently looking for suitable person to fill in the CLINICAL RESEARCH ASSOCIATE (Fresh Graduates Also Can Apply) which positioned at Cyberjaya" 
+tags: [Cyberjaya] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Cytopeutics Sdn Bhd is looking for new potential candidates to fill in for <b>CLINICAL RESEARCH ASSOCIATE (Fresh Graduates Also Can Apply)</b> position. If you currently looking for new healthcare job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include link-adsense.html %} 
+<div><div><div><h4>Job Description</h4></div></div><div><div><span><div><div><ul><li>Provide administrative support for designated projects team members.</li><li>Work together with the clinical research team in clinical data entry and collection.</li><li>Work together and assist the clinical research team in preparation, handling, distribution, filing and archiving of clinical documents and reports according to the scope of works and standard operating procedures.</li><li>Contact external and internal individuals to collate relevant study information.</li><li>Any other tasks as and when requested by the Management.</li></ul><div><br><strong>DESIRED SKILLS &amp; EXPERIENCE</strong></div><ul><li>Bachelor&#8217;s Degree in Biotechnology, Life Science, Medical Science, Pharmacy or a healthcare discipline is preferred.</li><li>Minimum 2 years of related working experience, preferably in clinical research/trial or projects management.</li><li><strong>FRESH GRADUATES are also encouraged to apply.</strong> If shortlisted for hiring, the position of <strong>Clinical Research Assistant</strong> will be offered instead.</li><li>Computer literate with good knowledge of Microsoft Office applications and preferably proficient in SPSS software as well.</li><li>Candidates with basic knowledge of clinical research/trial processes and International Council for Harmonization (ICH) and/or Good Clinical Practice (GCP) guidelines would have an added advantage.</li><li>Responsible, committed, has initiative and result oriented.</li><li>An individual who takes pride in his/her work, self-motivated and a team player.</li><li>Good interpersonal and communications skills.</li><li>Excellent numerical and analytical skills.</li><li>Excellent organizational and project management skills including ability to work on multiple activities concurrently prioritise tasks and meet competing deadlines.</li></ul><div>We offer a <strong>FIVE-DAY WORK WEEK</strong> &amp; <strong>attractive remuneration package</strong> to commensurate with qualification and experience to successful candidates.</div><div><strong>Only shortlisted candidates will be notified.</strong></div></div></div></span></div></div></div> 
+{% include 300-adsense.html %} 
+<div><div><div><h4>Company Overview</h4></div></div><div><div><span><div><div>
+	Cytopeutics is one of the leading pioneers in stem cell research and treatment. After more than a decade of evidence-based research and development, combining the expertise of scientists around the world, Cytopeutics is now ready to offer its capabilities to help people with diseases that were previously deemed incurable. At Cytopeutics Sdn Bhd, our goal is to bring comprehensive stem cell treatment solutions to Malaysia and South East Asia so that lives can be improved for the better. Our treatments are conducted with utmost professionalism. Under our patented technology, the cells are handled under the strictest standards, in a certified clean room environment and transplanted into patients only by highly qualified professionals. In line with our expansion program, we are currently seeking for exceptional individuals to join our dynamic team of scientists in stem cell biology and regenerative medicine.</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream hospital job in Cyberjaya. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/clinical-research-associate-fresh-graduates-also-can-apply-4448664?jobId=jobstreet-my-job-4448664&sectionRank=4&token=0~43795c18-0359-4290-a20f-7144e6d975e4&fr=SRP%20View%20In%20New%20Ta" class="btn btn--warning" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include link-adsense.html %} 

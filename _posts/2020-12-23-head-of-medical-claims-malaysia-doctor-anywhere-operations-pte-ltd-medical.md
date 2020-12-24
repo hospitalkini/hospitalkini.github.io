@@ -1,0 +1,25 @@
+---
+title: "DOCTOR ANYWHERE OPERATIONS PTE. LTD. Vacancies Head of Medical Claims (Malaysia)" 
+category: Jobs 
+date: 2020-12-23 
+excerpt: "DOCTOR ANYWHERE OPERATIONS PTE. LTD. is currently looking for suitable person to fill in the Head of Medical Claims (Malaysia) which positioned at Singapore" 
+tags: [Singapore] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>DOCTOR ANYWHERE OPERATIONS PTE. LTD. is looking for new potential candidates to fill in for <b>Head of Medical Claims (Malaysia)</b> position. If you currently looking for new healthcare job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include link-adsense.html %} 
+<div><div><div><h4>Job Description</h4></div></div><div><div><span><div><div><strong>Job Summary</strong></div><div>This role will focus on clinical initiatives (i.e. providing clinical leadership for all aspects of Doctor Anywhere Malaysia service, including clinical operations and new services, etc) and claims/case management (i.e. maintaining oversight of claims function for Adept Health Singapore).</div><div><div><strong>Key Responsibilities</strong></div><div><ul><li>Identify potential policies and coverage for incoming claims, performing independent research to seek validation or clarification where necessary.</li><li>Provide prompt, clear and accurate advice to clients and other parties on any claims matters.</li><li>Direct implementation of claims service standards to ensure delivery of quality-focused, consistent cost-effective service and administration.</li><li>Provide medical expertise with respect to planning and establishing goals, policies, procedures and protocols to improve medical &amp; service standards.</li><li>Ensure that Doctor Anywhere Malaysia is keeping abreast and compliant with statutory, licensing and accreditation requirements.</li><li>Refine and improve our service delivery at the interface between our clinical and operations teams.</li><li>To act as an ambassador for Doctor Anywhere Malaysia and contribute to the wider digital health agenda as appropriate.</li><li>Any other adhoc duties assigned when appropriate.</li></ul></div></div><div><strong>Professional Experience / Qualifications</strong></div><div><ul><li><div>Recognized Medical Degree (MBBS) with minimum 5 years&#8217; relevant experience as a Family Physician</div></li><li><div>Registered with the Malaysian Medical Council (MMC) / NSR &amp; possess valid APC</div></li><li><div>Experience in Insurance/ Third-Party Administrators industries will be ideal</div></li><li><div>Ability to communicate clearly in both writing and verbally</div></li><li><div>Ability to handle and mediate sensitive issues calmly, empathetically and professionally</div></li><li><div>Proficient in Microsoft Office applications</div></li><li><div>A start-up attitude &#8211; highly collaborative with an entrepreneurial, roll-up-your sleeves attitude that&#8217;s not afraid to work independently when required</div></li><li><div>Comfortable with ambiguity - we're a fast-growing business and there's always grey areas, which is part of the fun. You should be comfortable with it and understand that not everything is 100% defined all the time.</div></li></ul></div></div></span></div></div></div> 
+{% include 300-adsense.html %} 
+<div><div><div><h4>Company Overview</h4></div></div><div><div><span><div><div>Doctor Anywhere is a regional tech-led healthcare company headquartered in Singapore. With a strong network of established healthcare providers and experienced doctors, Doctor Anywhere&#8217;s digital platform enables users to manage their health easily and effectively through the Doctor Anywhere mobile app. Users can consult a licensed local doctor anytime, anywhere, and get medication delivered to their doorsteps within hours. Medical history, health reports, and other documents are stored in-app for easy access.</div>
+<div><br>
+Under the DA Network clinics, users also have access to an island-wide panel of general practitioners, specialists, and allied healthcare providers.</div>
+<div><br>
+Complementing this ecosystem is the DA Marketplace. Users can shop for a wide range of health and wellness products and services, such as nutritional supplements, skincare products, physical therapy sessions, and even book home-based healthcare services &#8211; all in one place. Doctor Anywhere now serves more than one million, and growing, users on its online and offline platforms.</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream hospital job in Singapore. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/head-of-medical-claims-malaysia-8216639/origin/sg?jobId=jobstreet-sg-job-8216639&sectionRank=10&token=0~aa52f537-14f1-45db-bcaa-0d4f90a9f5f3&fr=SRP%20View%20In%20New%20Ta" class="btn btn--warning" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include link-adsense.html %} 

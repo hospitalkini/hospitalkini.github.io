@@ -1,0 +1,24 @@
+---
+title: "Penang Adventist Hospital Vacancies SONOGRAPHER" 
+category: Jobs 
+date: 2020-12-29 
+excerpt: "Penang Adventist Hospital is currently looking for suitable person to fill in the SONOGRAPHER which positioned at George Town" 
+tags: [George Town] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Penang Adventist Hospital is looking for new potential candidates to fill in for <b>SONOGRAPHER</b> position. If you currently looking for new healthcare job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include link-adsense.html %} 
+<div><div><div><h4>Job Description</h4></div></div><div><div><span><div><div><strong>JOB QUALIFICATIONS/SPECIFICATIONS:</strong></div><ul><li><strong>Post Graduate Diploma in Diagnostic Medical Ultrasonographer.</strong></li><li><strong>Current compliance with Continuing Medical Education (CME) requirements for specialty as appropriate.</strong></li><li><strong>Possess sufficient experience that defined by this institution.</strong></li><li><strong>Basic Life Support (BLS) certified.</strong></li></ul><div><strong>GENERAL DESCRIPTION OF JOB POSITION</strong></div><div>A Sonographer is personnel who possess special skill in ultrasonography that is qualified by clinical experience to provide diagnostic patient care services using ultrasound scanner. They are responsible for acquiring the image and may interpret the images to diagnose illnesses and injuries. They can contribute towards establishing treatment plans and may also be involved in intervention procedures. Sonographer have a patient care role and work in a variety of hospital departments as per assigned.</div><div><div><strong>DUTIES &amp; RESPONSIBILITIES</strong></div><ul><li>Responsible for the independent operation of sonographic equipment.</li><li>Performing and communicating results of diagnostic examinations using sonography.</li><li>Sonographer is responsible for daily operations of the sonographic room, patient schedule, equipment maintenance, the report of equipment failures, and quality assurance (QA).</li><li>Inspects all equipment under her/his control on regular daily basis ensuring that they are used according to the&#160;manufacturer instructions and kept clean at all times.</li><li>Participate in equipments maintenance program, report machine faulty and follow up with the repairing status,ensuring the image quality is not compromised.</li><li>Able to set up a new ultrasound machine and room.</li><li>Performs all requested sonographic examinations as ordered by the attending physician</li><li>Uses independent judgment during the sonographic exam to accurately differentiate between normal and pathologic findings.</li><li>Responsibility for the safety, mental and physical comfort of patients while they are in the Sonographer's care.</li><li>Assist physician in perform diagnostic screening using ultrasound equipment when necessary.</li><li>Participates in sonography practice accreditation.&#160; &#160;</li></ul></div></div></span></div></div></div> 
+{% include 300-adsense.html %} 
+<div><div><div><h4>Company Overview</h4></div></div><div><div><span><div><div>
+	Penang Adventist Hospital, a Malaysian Society for Quality in Health (MSQH) accredited hospital, is the first hospital in Malaysia to be accredited by the Joint Commission International (JCI). Established in 1924, the pioneer not-for-profit private hospital in Malaysia, has grown from a community mission hospital to a tertiary regional medical centre. We are part of an international network of more than 500 hospitals and healthcare facilities within the Adventist Health system including the renowned Loma Linda University Medical Centre, California and Florida Hospital in USA. We are looking for people who are caring and have great passion and must be committed to our mission of providing wholistic comprehensive, competent and excellent healthcare</div>
+<div>
+	Penang Adventist Hospital is committed to the principles of Equal Employment Opportunity. The hospital is committed to recruit, pay and train applicants &amp; employees without regard to race, color, religion, sex, national origin, ancestry, age and marital status.&#160; &#160; &#160; &#160; &#160; &#160;</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream hospital job in George Town. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/sonographer-4433693?jobId=jobstreet-my-job-4433693&sectionRank=16&token=0~2461bda4-0852-4ee6-ae02-b3d9dba63fb3&fr=SRP%20View%20In%20New%20Ta" class="btn btn--warning" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include link-adsense.html %} 

@@ -1,0 +1,22 @@
+---
+title: "Sunway Medical Centre Sdn Bhd Vacancies Manager, Nursing (Occupational Health)" 
+category: Jobs 
+date: 2021-01-06 
+excerpt: "Sunway Medical Centre Sdn Bhd is currently looking for suitable person to fill in the Manager, Nursing (Occupational Health) which positioned at Selangor" 
+tags: [Selangor] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Sunway Medical Centre Sdn Bhd is looking for new potential candidates to fill in for <b>Manager, Nursing (Occupational Health)</b> position. If you currently looking for new healthcare job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include link-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><div>Sunway Healthcare is part of the Sunway Group, one of Malaysia's largest conglomerates with core interest in property, construction, education and healthcare. The group currently runs Sunway Medical Centre, which is one of the largest private tertiary hospitals in the region with 636 beds and is accredited with the Australian Council on Healthcare Standards (ACHS). The group is also building 5 more hospitals in different cities in Malaysia which will complete in stages over the next four years.</div><div><strong>What&#8217;s your job like ?</strong></div><div><ul><li>Plan and manage Health, Wellness Centre&#160; and Industrial Nurses effectively in line with the Hospital goals and objective in delivering excellent customer service in a healthy and safe environment.</li><li>Provide support to the Head of Occupational Health/Occupational Health Physician in providing occupational health services to clients</li><li>Managing a balance of staff competency and skill level mixed in order to deliver efficient primary care to customer</li><li>Ascertain and coordinate a good teamwork flow with staff/ subordinates/ SunMed Insurer/ Human Capital other concerned departments for a better, smooth and improve care deliverance coordination to customer</li><li>Assist in coordination, analysis and input of data/ topic presentation for projects or health events with Business Development or concerned personnel for health awareness/ prevention or education programs</li><li>Motivating and coaching subordinates to attain high skills level to meet daily requirements</li></ul><div><strong>Who are we looking for ?</strong></div><div><ul><li>Possess at least a Diploma or Degree in Nursing</li><li>Trained Occupational Health Nurse.</li><li>5 years of working experience in Occupational Health Field.</li><li>Preferably training attendance in Basic CPR and Customer Service courses.</li><li>Valid Annual Practicing Certificate.</li><li>Registered With Malaysian Nursing Board.</li><li>Good customer service skills.</li><li>Computer literate.</li></ul><div><strong>Why you should consider this opportunity ?</strong></div><div><ul><li>Potential Career progression as we are expanding (Building 5 more hospitals in different cities in Malaysia)</li><li>We are accessible via BRT-SunMed station &amp; located near various amenities/shopping mall/eateries &amp; etc.</li><li>Competitive Employee Benefits (i.e. Contractual Bonus/Subsidized Parking/Tertiary Education Fees Discounts &amp; etc.)</li></ul></div></div></div></div></span></div></div></div> 
+{% include 300-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>
+	Sunway Medical Centre Sdn Bhd is a multi-disciplinary acute tertiary care hospital, located within the integrated properties of Bandar Sunway. We have established many Centres of Excellence and take pride in providing the highest standard of care and treatment to our patients. A highly-accredited hospital, we are internationally certified with the Australian Council on Healthcare Standards (ACHS) and its laboratory is the first in Malaysia to be awarded the Westgard Sigma Verification and is also certified by Standards Malaysia (MS ISO 15189).</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream hospital job in Selangor. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/manager-nursing-occupational-health-4456663?jobId=jobstreet-my-job-4456663&sectionRank=9&token=0~2ed4de36-65ef-499a-963c-6573040e4ef9&fr=SRP%20View%20In%20New%20Ta" class="btn btn--warning" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include link-adsense.html %} 

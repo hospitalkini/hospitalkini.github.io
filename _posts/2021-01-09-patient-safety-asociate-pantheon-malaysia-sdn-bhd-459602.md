@@ -1,0 +1,26 @@
+---
+title: "Pantheon Malaysia Sdn Bhd Vacancies Patient Safety Associate" 
+category: Jobs 
+date: 2021-01-09 
+excerpt: "Pantheon Malaysia Sdn Bhd is currently looking for suitable person to fill in the Patient Safety Associate which positioned at Selangor" 
+tags: [Selangor] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Pantheon Malaysia Sdn Bhd is looking for new potential candidates to fill in for <b>Patient Safety Associate</b> position. If you currently looking for new healthcare job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include link-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><ul><li>Roles &amp; Responsibilities:<br>&#8226; Manage collection, processing, documentation, reporting and follow-up of all adverse event (AE) reports for all XYZ products from clinical trials, non-interventional studies, Patient Oriented Programs, literature, Spontaneous Reports, etc. Transcribe, translate and enter data of all data from source documents into safety systems accurately and consistently with emphasis on timeliness and quality.<br>&#8226; Manage reporting/submission/distribution of safety reports/updates/information to Local Health Authorities (LHA) and/or clinical operations in cooperation with other departments.<br>&#8226; Work with other local/global Patient Safety associates to ensure accurate evaluation of safety data.<br>&#8226; Interact and exchange relevant safety information with LHA, Patient Safety associates, other functional groups and third party contractor, if applicable.<br>&#8226; Survey and monitor national pharmacovigilance regulations and provide update to global Patient Safety organization.<br>&#8226; Develop, update and implement local procedures to ensure compliance with Patient Safety global procedures and national requirements.<br>&#8226; Input, review and approval of program proposals for language, content and establishment of necessary controls on collection and reporting of adverse event information.<br>&#8226; Perform reconciliation with other departments (e.g. Medical Information, Quality Assurance and third party contractor, if applicable) for potential AEs resulting from medical inquiries, quality related complaints and other sources.<br>&#8226; Management and maintenance of all relevant Patient Safety databases.<br>&#8226; Prepare and submit KPI reports on compliance in a timely manner including identification of root cause(s) for late reporting to LHA, development and implementation of corrective action(s) as needed.<br>&#8226; Develop and update training materials for pharmacovigilance and ensure training of associates on relevant Patient Safety procedures for AE reporting, including field force and third party contractor, if applicable.<br>&#8226; Ensure support for and close-out of audits, corrective action plan, investigation and Health Authority inspections.<br>&#8226; Ensure training and oversight of staff, as applicable.<br>&#8226; Manage and maintain efficient Patient Safety filing and archive system.<div>Requirements:<br>&#8226; Candidate must possess at least a Bachelor's Degree, Post Graduate Diploma, Professional Degree in Medicine, Nursing, Pharmacy/Pharmacology or equivalent.<br>&#8226; Required language(s): English, Bahasa Malaysia<br>&#8226; Experience/Skill: Knowledge of national and international regulations for pharmacovigilance, knowledge of pharmacological and medical terminology and excellent communications, interpersonal and negotiation skills<br>&#8226; At least 1 year(s) of working experience in the related field is required for this position.<br>&#8226; Preferably Junior Executives specializing in Healthcare - Pharmacy or equivalent.</div></li></ul></div></span></div></div></div> 
+{% include 300-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>
+	Pantheon was founded by technology and business experts who are pioneers in the field of software engineering, both in the commercial space and academia.</div>
+<div>
+	Our flagship product Odyssey is used by many Fortune 500 multi-national companies around the world. Odyssey is actively used in 13 countries spanning many continents.</div>
+<div>
+	Pantheon puts science to work by creating innovative products and solutions that have proved to be increasingly critical to business success. This is accomplished by helping organizations manage change, manage lifecycle of information assets, and meet compliance and audit challenges. Our aim is to help our customers meet their goals through expertise, efficiency and sound decision-making in everything we do. We have the ability to innovate in response to market needs, drawing on our experience and top quality technical talents.</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream hospital job in Selangor. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/patient-safety-associate-4459602?jobId=jobstreet-my-job-4459602&sectionRank=2&token=0~ac411036-0be5-4354-b179-c7f28787ebbe&fr=SRP%20View%20In%20New%20Ta" class="btn btn--warning" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include link-adsense.html %} 

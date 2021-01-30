@@ -1,0 +1,21 @@
+---
+title: "Agensi Pekerjaan BGC Group (Malaysia) Sdn Bhd Vacancies Clinical Pharmacist (Work Remote/Work from Home)" 
+category: Jobs 
+date: 2021-01-30 
+excerpt: "Agensi Pekerjaan BGC Group (Malaysia) Sdn Bhd is currently looking for suitable person to fill in the Clinical Pharmacist (Work Remote/Work from Home) which positioned at Kuala Lumpur" 
+tags: [Kuala Lumpur] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Agensi Pekerjaan BGC Group (Malaysia) Sdn Bhd is looking for new potential candidates to fill in for <b>Clinical Pharmacist (Work Remote/Work from Home)</b> position. If you currently looking for new healthcare job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include link-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><div><strong>Our US client are seeking an excellent Clinical Pharmacist with solid clinical training who is well-versed in pharmaceutical therapy and disease management guidelines. This candidate must be a team player, an excellent communicator, dependable and diligent.</strong><div><strong>Role and Responsibilities</strong></div><ul><li>Proven experience as clinical pharmacist</li><li>Residency training and current license are required</li><li>Excellent understanding of pharmaceutical therapy and patient care</li><li>Knowledgeable of current and emerging clinical trends</li><li>Understanding of health insurance, pharmacy benefit management and formulary development</li><li>Able to review and interpret clinical drug use criteria for health plan prior authorizations</li><li>Able to research drug information to maintain drug knowledge and disease state understanding for application to prior authorization reviews</li><li>Experience in clinical program development</li><li>Working knowledge of computers, MS Word, Excel, Outlook, Visio</li><li>Outstanding communication skills (verbal and written)</li><li>Aptitude in problem-solving, analytical skills and decision-making</li><li>Strong professional ethics</li><li>Ability to work independently, as well as a member of a team</li><li>Required language(s): Bahasa Malaysia, Mandarin, English</li><li>Minimum 5 year(s) of working experience as Fully Registered Pharmacist in the related field is required for this position.</li></ul><div><strong>Qualifications and Education Requirements</strong></div><ul><li>Minimum: Bachelor of Science in Pharmaceutical</li><li>Preferred:&#160; Master of Pharmacy or PharmD (Doctor of Pharmacy)</li><li>Preferred Skills</li><li>Experience in working with US Health Plan or PBM especially with prior authorizations</li></ul><div><strong>**This is a long term Contract position (Yearly renewal)</strong></div><div><strong>Inrterested applicants may send over your resume to:&#160;</strong><strong>eunice.wong@bgcmalaysia.com or you may directly apply through this Job Advs.&#160;</strong></div></div></div></span></div></div></div> 
+{% include 300-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div><div>BGC Group is an international recruitment and manpower outsourcing firm that identifies and delivers human capital solutions imperative to every successful company&#8217;s growth.</div><div>Since our inception in 2005, we've helped 25,000 individuals in Asia land rewarding careers in companies that drive industries. We believe in developing strong, durable relationships by providing a solid ground of trust between both our clients and job seekers. We're proud to say that this gives us an edge over the others.</div><div>Recruitment is what we do. The process of tapping into, selecting, and converting the best talent pools - in a race against time and rising costs - is a fulfilling mission.</div></div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream hospital job in Kuala Lumpur. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/clinical-pharmacist-work-remote-work-from-home-4472798?jobId=jobstreet-my-job-4472798&sectionRank=4&token=0~cefc5197-0a4d-4d29-b105-60bd7eb2c060&fr=SRP%20View%20In%20New%20Ta" class="btn btn--warning" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include link-adsense.html %} 

@@ -1,0 +1,21 @@
+---
+title: "JAC Recruitment Malaysia Vacancies CLINICAL SPECIALIST (NURSING BACKGROUND) - KUCHING (REF: HJ)" 
+category: Jobs 
+date: 2021-02-03 
+excerpt: "JAC Recruitment Malaysia is currently looking for suitable person to fill in the CLINICAL SPECIALIST (NURSING BACKGROUND) - KUCHING (REF: HJ) which positioned at Sarawak" 
+tags: [Sarawak] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>JAC Recruitment Malaysia is looking for new potential candidates to fill in for <b>CLINICAL SPECIALIST (NURSING BACKGROUND) - KUCHING (REF: HJ)</b> position. If you currently looking for new healthcare job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include link-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><div><strong>JOB RESPONSIBILITIES</strong></div><ul><li>Provide effective technical consultative service to customers before, during and after routine surgical cases.</li><li>Apply product proficiency by ensuring customers comprehend technical specifications and on-label use of products.</li><li>Provide inventory management and invoicing to customers and branch operations.</li><li>Attend and support routine primary surgical procedures.</li><li>Identify and troubleshoot product-related problems and/or issues related to a customer&#8217;s application of a product.</li><li>Document every incident regarding product performance; assist in preparing reports regarding these product issues according to Company policy and governmental requirements.&#160;</li><li>Provide product training to colleagues and/or customers in both one-on-one and in-service settings.</li><li>Maintain product/instrumentation knowledge and professional skills through internal training, external seminars and other available means.&#160;</li></ul><div><strong>JOB REQUIREMENTS</strong></div><ul><li>Candidate must possess at least a Diploma in Nursing.</li><li>Required language(s): Mandarin, English, Bahasa Malaysia</li><li>At least 2 year(s) of nurse working experience in Emergency/Operating Theater background will be added advantage.</li><li>Ability to persuade and influence others. Ability to develop and deliver presentations.</li><li>Demonstrated problem solving, communication and teamwork skills, including the ability to drive clear verbal messages regarding technical subjects.&#160;</li><li>Possess own transport and willing to travel.</li></ul></div></span></div></div></div> 
+{% include 300-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>JAC Recruitment was first established in London, UK in 1975. Our growth continue in Asia, where we make our mark in 11 countries: Singapore, Malaysia, Indonesia,&#160;Thailand, &#160;Hong Kong, China,&#160;Korea, Vietnam, India, United Kingdom and Japan.</div><div><br>We established since April 1994 in Malaysia and has &#160;been providing accurate and high quality recruitment service to our clients. We introduce highly skilled, experienced and professional personnel, spanning through a wide range of expertise; Executive Placement, Staff Placement, Native Japanese, Japanese Speaking, and Multilingual Talent&#160;</div><div>Emphasizing on quick and efficient solution to your recruitment needs while maintaining a unique, warm Malaysian approach in our communications, assuring a superior quality service that connects employers with employees, fulfilling employment needs in harmonious perfection.</div><ul><li>Our consultants are well trained professional and has in-depth industry specific knowledge</li><li>We are committed to provide borderless operation with the same high standard of service everywhere</li><li>We Place the right talents, to the right positions, at the right companies with joy!</li></ul></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream hospital job in Sarawak. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/clinical-specialist-nursing-background-kuching-ref:-hj-4476033?jobId=jobstreet-my-job-4476033&sectionRank=9&token=0~97473543-d500-4bfe-a921-9bed749a1752&fr=SRP%20View%20In%20New%20Ta" class="btn btn--warning" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include link-adsense.html %} 

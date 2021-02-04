@@ -1,0 +1,21 @@
+---
+title: "IRCare Sdn. Bhd. Vacancies Physiotherapist (Selangor)" 
+category: Jobs 
+date: 2021-02-04 
+excerpt: "IRCare Sdn. Bhd. is currently looking for suitable person to fill in the Physiotherapist (Selangor) which positioned at Selangor" 
+tags: [Selangor] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>IRCare Sdn. Bhd. is looking for new potential candidates to fill in for <b>Physiotherapist (Selangor)</b> position. If you currently looking for new healthcare job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include link-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><div>WE ARE HIRING !!!We are currently looking for a group of therapists to join our team.If you&#8217;re a pleasant, caring, motivated and hardworking individual that is interested in the wellness industry and keen to learn, <strong>we want you to join us!</strong>&#160;<strong>YOUR Responsibilities:</strong><ul><li>To diagnose and perform treatments for customer and ensure that treatment is professionally and skillfully performed.</li><li>To gather and record feedback from customers.</li><li>To make professional recommendations of treatments to customer.</li><li>To fill in customers&#8217; profile, appointments and feedback.</li><li>To tidy up and maintain the cleanliness of the Centre.</li></ul>&#160;<strong>YOUR Requirements:</strong><ul><li>Required language(s): English and Bahasa Malaysia</li><li>Candidates who are able to speak in Mandarin will be added advantage.</li><li>Experience in Physiotherapy, Beauty, Masseur, Personal Care, Spa or Health industry will be preferred</li><li>School leavers or fresh graduates are welcome to apply</li><li>Strong interest in the wellness industry. Keen and proactive to learn</li><li>Good communication and interpersonal skills</li><li>Self-motivated, approachable and service oriented</li><li>Independent with a strong sense of responsibility</li></ul>&#160;<strong>WHAT to Expect:</strong><ul><li>Work on retail hours, weekend, and public holidays.</li></ul>&#160;<strong>THE Benefits:</strong><ul><li>Basic Pay</li><li>Commission</li><li>EPF &amp; SOCSO</li><li>Annual Leave</li><li>Uniform</li><li>Comprehensive training program is provided</li><li>Self-advancement and career growth opportunity</li></ul><br><strong>NOTE:</strong>We will get in touch with you through Whatsapp, kindly ensure the contact number provided is reachable via Whatsapp.</div></div></span></div></div></div> 
+{% include 300-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>We are about alternatives &#8211; natural and safe alternative for effective relief from pain caused by muscle strain, stress, ageing and other causes. Through our innovative, drug-free &amp; non-invasive pain relief therapy, our mission is to empower our users to re-claim their active and pain-free lifestyles naturally and safely. We believe our solutions are uniquely positioned to enhance the well-being of our users. Our highly talented and dedicated team of research &amp; development engineers continue to push the boundaries of what can be achieved with our innovations. By combining advanced sustainable technology from the West with traditional Eastern pain relief techniques, we aim to provide the best of both worlds through our Hi-Bliss therapy.</p><p>At IRCare, we are committed to do our part in building a healthier community for a better world.</p><p>Find out more about us at http://www.hi-bliss.com/</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream hospital job in Selangor. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/physiotherapist-selangor-4461272?jobId=jobstreet-my-job-4461272&sectionRank=20&token=0~ea7c643e-a9f6-4036-b4ad-9c2c2e6e25d8&fr=SRP%20View%20In%20New%20Ta" class="btn btn--warning" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include link-adsense.html %} 

@@ -1,0 +1,21 @@
+---
+title: "KITTON (M) SDN BHD Vacancies Veterinary Assistant" 
+category: Jobs 
+date: 2021-02-08 
+excerpt: "KITTON (M) SDN BHD is currently looking for suitable person to fill in the Veterinary Assistant which positioned at Shah Alam/Subang" 
+tags: [Shah Alam/Subang] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>KITTON (M) SDN BHD is looking for new potential candidates to fill in for <b>Veterinary Assistant</b> position. If you currently looking for new healthcare job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include link-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><p><strong>Requirements</strong></p><ul><li>Preferable with good BMI.</li><li>Positive attitude, passionate on collaborative teamwork, excel at interpersonal skills.</li><li>Excellent written and verbal communication skills.</li><li>Adaptable to change, able to pivot and find alternate solutions, demonstrated capability in meeting new challenges.</li><li>Good problem solving skills, able to navigate unexpected situations or conditions.</li><li>Critical observer-thinker, bringing fresh perspective and offer intuitive solutions and ideas.</li><li>Demonstrated leadership skills in driving teamwork excellence, conflict resolution.</li><li>Candidate must possess at least a Sijil Pelajaran Malaysia.</li><li>Fluent in Bahasa Malaysia.&#160;</li><li>Good customer service.</li></ul><p><strong>Responsibility</strong></p><ul><li>Treat customer with good attitude.</li><li>Keep clean environment in clinic.&#160;</li><li>Make sure all room in good condition.</li><li>Grooming for animal.</li><li>Multitasking when need to handling stock.</li><li>Handling billing system (Kreloses)</li><li>Make sure product sales and arrange the product at racks.&#160;</li><li>Handling treatment and medicine of animal in warding area under Veterinary Surgeon monitor.&#160;</li><li>Update new case and make sure ward, quarantine and surgery area in clean environment.</li><li>Assist Veterinary Surgeon on surgery and consultation.&#160;</li><li>Record Petty cash and update with admin.</li><li>Make closing when handling cashier section.</li><li>Work under our company SOP.</li><li>Make sure on standby mode if there any emergency case.&#160;</li></ul><p><strong>Benefits</strong></p><ul><li>KWSP</li><li>SOCSO</li><li>Medical claim included</li><li>Annual and medical leave&#160;</li><li>Mentor Mentee program</li></ul></div></span></div></div></div> 
+{% include 300-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>KITTON (M) SDN BHD bernombor Pendaftaran Syarikat 1226992-W adalah sebuah syarikat bumiputera yang menjalankan aktiviti Veterinar yang beralamat di No 40, Jalan BPP 8/3, Bandar Putra Permai, 43300 Seri Kembangan, Selangor Darul Ehsan, Malaysia.</p><p>Visi utama syarikat tertumpu kepada Perkembangan, Kemajuan bidang Veterinar yang mana usaha kami tertumpu kepada peningkatan pengeluaran, pengurangan masalah penyakit serta kawalan jangka hayat dan pada masa yang sama memberi pendekatan dalam memasarkan produk yang dikeluarkan oleh Penternak-Penternak.</p><p>Kami juga merupakan pemborong ubatan &amp; alatan veterinar kepada seluruh Jabatan Perkhidmatan Veterinar Malaysia (DVS). Kami juga aktif bekerjasama dengan DVS di dalam membangunkan klinik haiwan kesayangan di seluruh Malaysia.</p><p>Kami juga bergiat aktif di dalam &#8220;small animal clinic&#8221; atau Klinik Haiwan Kesayangan yang juga berpusat di Seri Kembangan, Selangor. Kami menjalankan perkhidmatan veterinar kepada haiwan kesayangan dengan harga yang amat berpatutan. Buat masa kini kami telah memiliki 3 cawangan klinik dan akan menambahkan cawangan ke-4 di Seremban 2.</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream hospital job in Shah Alam/Subang. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/veterinary-assistant-4477364?jobId=jobstreet-my-job-4477364" class="btn btn--warning" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include link-adsense.html %} 

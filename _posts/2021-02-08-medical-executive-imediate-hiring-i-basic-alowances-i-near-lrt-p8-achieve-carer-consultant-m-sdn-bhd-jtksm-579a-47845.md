@@ -1,0 +1,21 @@
+---
+title: "ACHIEVE Career Consultant (M) Sdn Bhd (JTKSM 579A) Vacancies Medical Executive (Immediate Hiring I Basic + Allowances I Near LRT) - P8" 
+category: Jobs 
+date: 2021-02-08 
+excerpt: "ACHIEVE Career Consultant (M) Sdn Bhd (JTKSM 579A) is currently looking for suitable person to fill in the Medical Executive (Immediate Hiring I Basic + Allowances I Near LRT) - P8 which positioned at Kuala Lumpur" 
+tags: [Kuala Lumpur] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>ACHIEVE Career Consultant (M) Sdn Bhd (JTKSM 579A) is looking for new potential candidates to fill in for <b>Medical Executive (Immediate Hiring I Basic + Allowances I Near LRT) - P8</b> position. If you currently looking for new healthcare job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include link-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><div><strong>- Basic salary + allowances&#160;</strong></div><div><strong>- Near public transport&#160;</strong></div><div><strong>- 5 days a week (Mon - Fri)</strong></div><div><strong>Responsibilities:&#160;</strong></div><ul><li>Provide materials related to nutrition require on child growth and development&#160;</li><li>Share consumers feedback with stakeholder&#160;</li><li>Build rapport with new, potential or existing consumers&#160;&#160;</li><li>Responsible for consumer service, support and medical advice&#160;&#160;</li><li>Collaborates with cross functional team&#160;</li><li>Keep abreast with market changing conditions and product&#160;</li></ul><div><strong>Requirements:&#160;</strong></div><ul><li>Candidate must possess at least a Diploma or Degree in Nursing&#160;</li><li>Minimum 3 years of working experience in <strong>paediatric</strong> department&#160;</li><li>Valid <strong>Annual Practising Certificate (APC)</strong></li><li>Good command in <strong>English</strong>. Ability to speak in <strong>Mandarin</strong> will be an <strong>added advantage</strong></li></ul><div><div>Interested candidates, please submit with your complete CV.</div><div>We regret that only shortlisted candidates will be notified.</div>By submitting any application or resume to us, you will be deemed to have agreed and consented to us collecting, using, retaining and disclosing your personal information for the purpose of processing your application.</div></div></span></div></div></div> 
+{% include 300-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div><div><strong>Founded in Singapore,&#160;Achieve Group is a multi award-winning organisation and HR outsourcing partner-of-choice for local conglomerates and multinational corporations within the Asia Pacific region. </strong><div><strong>The company was built on the strength of its Talent Acquisition expertise, servicing corporate clients across diverse industries. It is a sophisticated process, which the Achieve Group has perfected over the last&#160;three decades, making the brand synonymous with accurately matching the right people to the right organisation within the shortest time possible.&#160; Through these precise placements, we have enabled our clients' businesses to achieve greater heights of success by having the right talents onboard.</strong></div></div><div><div><strong>The ACHIEVE Group has garnered a number of prestigious accolades recently:</strong></div><div><strong>Human Resources &#8216;HR Vendors of the Year 2014&#8217;<br>Enterprise 50 Award 2011<br>ASEAN Business Award 2011</strong></div></div></div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream hospital job in Kuala Lumpur. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/medical-executive-immediate-hiring-i-basic-allowances-i-near-lrt-p8-4477845?jobId=jobstreet-my-job-4477845" class="btn btn--warning" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include link-adsense.html %} 

@@ -1,0 +1,21 @@
+---
+title: "NK BIOCELL SDN. BHD. Vacancies Lab Technician (Medical Bioscience)" 
+category: Jobs 
+date: 2021-02-08 
+excerpt: "NK BIOCELL SDN. BHD. is currently looking for suitable person to fill in the Lab Technician (Medical Bioscience) which positioned at Kuala Lumpur" 
+tags: [Kuala Lumpur] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>NK BIOCELL SDN. BHD. is looking for new potential candidates to fill in for <b>Lab Technician (Medical Bioscience)</b> position. If you currently looking for new healthcare job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include link-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><p><strong>Job Scope :</strong></p><ul><li>Perform laboratory activities necessary for cell culture including but not limited to the maintenance of host cell lines, the preparation of media and basic, testing of mammalian cell lines.&#160;Prepare reagents (including growth media) and tests samples.</li><li>Responsible for the development, modification, verification and validation of methods.</li><li>Identify any deviation from the procedures for performing laboratory activities and initiate action to prevent or minimize the deviations.</li><li>Responsible for maintaining quality standards in all testing procedures, maintain technical records and reports.</li><li>Conduct data collection, compilation, interpretation and ensure proper documentation of experimental data.</li><li>Maintain laboratory notebooks.</li><li>Design and perform laboratory research experiments in collaboration with other scientists.</li><li>Manage site inventory by ordering laboratory supplies and equipment.</li><li>Maintain the laboratories and perform other job related duties as assigned.</li><li>Accumulate knowledge and skills to support development and management of research protocols in support of multiple drug discovery efforts.</li><li>Achieve business goals, share learning&#8217;s, knowledge and skills and promote cross-functional teamwork.</li><li>Use knowledge and experiences to interpret and properly document experimental data.</li><li>Assist the Operation Manager in developing business, marketing and promotional plans for services and events.</li><li>Assist the Operation Manager in preparing sales materials, marketing information and when appropriate in the presentation of said materials.</li><li>Other work as assigned based on the project and company needs.</li></ul><p><strong>Requirements :</strong></p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Strong background in molecular and cell biology/immunology with minimum 2 years of research experience</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;2 positions &#8211; Senior and junior position</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Proven track record in molecular and cell biology/immunology is required.</p><ul><li>Able to work retail hours and weekends, including public holidays.</li><li>Malaysian only.</li></ul><p><strong>Perks &amp; Benefits</strong></p><ul><li>Personal leave</li><li>EPF , SOCSO &amp; EIS</li><li>Training provided</li><li>Permanent Position</li></ul></div></span></div></div></div> 
+{% include 300-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>NK BIOCELL is a treatment centre specialising in immunotherapy. Located in Kuala Lumpur, we offer complete treatment programs and wellness plans using advanced Korean technology in which the natural killer (NK) cells in our innate immune system are recruited and activated to cure cancer, boosts immunity towards diseases such as COVID-19, and even delay ageing for those needed. Our primary goal is to help patients fight pathological challenges effectively through prevention and healing.</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream hospital job in Kuala Lumpur. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/lab-technician-medical-bioscience-4477395?jobId=jobstreet-my-job-4477395" class="btn btn--warning" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include link-adsense.html %} 

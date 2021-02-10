@@ -1,0 +1,36 @@
+---
+title: "HSC Medical Center (KL) Sdn Bhd Vacancies Senior Staff Nurse (OT)" 
+category: Jobs 
+date: 2021-02-10 
+excerpt: "HSC Medical Center (KL) Sdn Bhd is currently looking for suitable person to fill in the Senior Staff Nurse (OT) which positioned at Kuala Lumpur" 
+tags: [Kuala Lumpur] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>HSC Medical Center (KL) Sdn Bhd is looking for new potential candidates to fill in for <b>Senior Staff Nurse (OT)</b> position. If you currently looking for new healthcare job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include link-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><div><div>We are searching for talented individuals to join us for a career opportunity.</div><div><br><strong>Job Description:</strong></div><ul><li>Maintain professional standards in the provision of nursing care and patient education to patients in collaboration with members of the health care team.</li></ul><div>Job scopes are including:</div><ul><li>Developing a safe and quality driven excellent clinical service to patients</li><li>Ensure the provision of a safe, clean and hygienic OT environment in compliance with Occupational Safety and Health Legislation, MOH Regulations, and HSC Medical Center Safety Policies and Procedures on Workplace Risk Assessment, Infection Control, Fire Safety and Security.</li><li>Maintain awareness of patient safety and hazards associated with the used of OT equipment when caring for the patient to avoid harm to the patient or staff.</li><li>In line with HSC Medical Center Policies and Procedures, ensure all employees report any accidents, complaints, defects in equipment, near misses and untoward incidents, non-conformal practices and abnormal incidents through the Incident Report Form which are made available in all department</li><li>All Clinical Duties including working as an inter-disciplinary team in the Operating Theatre Complex, performing cross functional nursing roles such as a scrub, circulating, anaesthetic or recovery room nurse with the aim of applying best practice and achieving optimal patient outcomes.</li><li>Infection Control<ul><li>Work closely with the Hospital Infection Control Nurse in reducing healthcare associated infections in the OT through the department&#8217;s Infection Linked Nurse.</li><li>Be familiar with the HSC Medical Canter&#8217;s Infection Control Policy, attend mandatory induction training and comply with all hand hygiene standards set by the hospital.</li><li>Have a strong sense of surgical conscience, practice aseptic techniques and adopt the universal precautions during the course of their work in the Operating Theatre.</li></ul></li><li>Ensure all information relating to patients and staff in the OT is kept confidential at all times.</li><li>Provide orientation and guidance for junior nursing personnel through continuing education and supervision to achieve quality nursing care.</li><li>Assume responsibilities for the day-to-day operations of the unit in the absence of the Nurse Manager or Nurse Clinician.</li></ul><div><strong>Requirements:</strong></div><ul><li>At least a Diploma in Nursing or Bachelor of Science in Nursing</li><li>Preferably with Advanced Diploma / Post Basic in Perioperative or Orthopaedics</li><li>Minimum of 4 years of working experiences in OT settings</li><li>Must be a licensed registered nurse (RN) or Allied Healthcare Profession with a valid Annual Practicing Certificate (APC with Malaysia Nursing Board)</li><li>Able to work in a fast-paced environment, love challenges and able to perform tasks efficiently</li><li>Strong self-initiative and interpersonal communication skills</li><li>Proven track record and relevant experience as an SRN in Operating Theatre.</li><li>Possess a deep motivation to drive and improve performance in the departmental care and services.</li><li>A mature understanding of team work</li><li>Proficiency with Computers and Microsoft Office Programs and data analysis</li><li>Ability to develop and coach staff, manage multiple stakeholders with professional attitude and ability to relate to all colleagues</li><li>Ability to relate to a variety of people and establish meaningful relationships with colleagues and patients.</li><li>Excellent collaborative working skills and able to build strong working relationship with consultants and all level of staff.</li><li>Able to manage own emotions and stress and be resilient in a range of complex and demanding situations.</li><li>Able to work long hours in the when required.</li><li>Able to be on rotational &#8220;On Call Duties&#8221; 24/7, during weekends and public holidays</li></ul></div></div></span></div></div></div> 
+{% include 300-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>
+	A World-Class Healthcare Provider - HSC MEDICAL CENTER.</div>
+<div>
+	The Pioneer in One-Stop Medical, Heart &amp; Diagnostic Services.</div>
+<div>
+	HSC Medical Center was officially opened by the Minister of Health Malaysia on 18 February 2003.</div>
+<div>
+	In a message to HSC Medical Center during the opening, the former Prime Minister of Malaysia Tun Dr Mahathir pointed out that " HSC 's approach to healthcare, with a focus on the early detection and treatment of Heart, Stroke &amp; Cancer and the utilization of the latest technology to enable rapid, non-invasive and earlier detection of these conditions is definitely in the right direction. " - today at HSC, we continue such direction.</div>
+<div>
+	HSC Medical Center is one of the world's leading One-stop medical, heart and diagnostic centers, with our internationally-trained medical professionals, fully computerized system integration, and state-of-the-art diagnostic and therapeutic equipment, all of which have contributed to the uniqueness of this medical center.</div>
+<div>
+	At HSC, we provide advanced medical and cardiac therapeutic services like non-invasive coronary angiogram, conventional angiogram, balloon angioplasty, stent implantation on out-patient basis.</div>
+<div>
+	HSC Medical Center is one of the few centers in the world to have designed and offer a very Comprehensive Health Screening Package for heart disease, stroke, and cancer, to detect most of today's life threatening diseases. Thousands of patients and visitors around the world have experienced HSC 's medical and diagnostic services.</div>
+<div>
+	The fundamental basis of healthcare is Quality. To achieve such quality, we have to constantly upgrade ourselves, introducing new medical techniques, adopting latest diagnostic and therapeutic equipment, upgrading ICT (information &amp; Communications Technology).</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream hospital job in Kuala Lumpur. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/senior-staff-nurse-ot-4470138?jobId=jobstreet-my-job-4470138" class="btn btn--warning" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include link-adsense.html %} 

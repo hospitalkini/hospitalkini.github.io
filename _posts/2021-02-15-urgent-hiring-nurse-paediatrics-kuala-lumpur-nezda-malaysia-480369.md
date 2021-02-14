@@ -1,0 +1,21 @@
+---
+title: "Nezda Malaysia Vacancies URGENT HIRING! Nurse (Paediatrics) | Kuala Lumpur" 
+category: Jobs 
+date: 2021-02-15 
+excerpt: "Nezda Malaysia is currently looking for suitable person to fill in the URGENT HIRING! Nurse (Paediatrics) | Kuala Lumpur which positioned at Johor" 
+tags: [Johor] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Nezda Malaysia is looking for new potential candidates to fill in for <b>URGENT HIRING! Nurse (Paediatrics) | Kuala Lumpur</b> position. If you currently looking for new healthcare job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include link-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><div><strong>DUTIES &amp; RESPONSIBILITIES:</strong></div><ul><li>This role is required to have consistent communication &amp; discussionwith the telesales team whenever required and <strong>to provide relevant nutrition related advice to theinternal &amp; external consumers.</strong></li><li>Develop and implement basic materials such as FAQs on possible question from the end user/consumer related to nutrition concern on child growth &amp; development.</li><li>To share consumers insights/feedback on product (if any) with relevant stakeholder which can potentially help to improve consumer experience with the brand.</li><li>Consult consumers&#8217; that registered/interested with Enfamama A+ app as part of the campaign &#8216;free nutrition advice &amp; tips&#8217; service.</li><li>Should be able to build rapport &amp; consult where necessary with client &amp; engage them on meetings/ conversations.</li><li>To ensure medical competency and consistency at all time when providing medical advice to the consumers.</li><li>Work closely with the relevant stakeholders on Nutritional claims permissible by local health authority.</li><li>Help and collaborates with cross functional team (CRM, CCSC &amp; other support functions) in the execution of basic and comprehensive medical related info.</li><li>Build and maintain a close relationship with new, potential or existing consumers.</li><li>Display superior consumer service and support by attending to consumers&#8217; needs.</li><li>Ensure to support the strategic objectives of the company.</li><li>Keep abreast with market changing conditions and product to ensure that all activities reflect the actual needs of the target audience and maintain highest level of quality.</li><li>Maintain strong relationships with internal/external diverse functional departments</li><li>Well versed with WHO code, local health Minister Nutrition's policies for marketing of infant formulas, Singapore &amp; Brunei Code of ethics.</li></ul><div><strong>QUALIFICATIONS:</strong></div><ul><li><strong>Diploma or Degree in Nursing</strong></li><li>State Registered Nurse preferably with<strong> 3 years of working experience in paediatric department</strong></li><li><strong>Valid Annual Practising Certificate (APC)</strong></li><li>Experience in the nutritional products or infant product to the healthcare professionals will be an advantage</li><li>High initiative, must be a team player and process good inter-personal skills</li></ul></div></span></div></div></div> 
+{% include 300-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>Nezda - Established in 2014 with 2 offices world-wide, 200+ global clients and strategic workforce is now emerging as Malaysia's most promising people supply chain company with multiple offices and 300+ core employees.</div><div><div>The company started with IT Temporary staffing and now expanded its portfolio to now become the one stop solution for staffing &amp; HR services by offering the following services:-Temporary staffing, Permanent Recruitment, Payroll processing, and Learning Services.</div></div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream hospital job in Johor. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/urgent-hiring!-nurse-paediatrics-%7C-kuala-lumpur-4480369?jobId=jobstreet-my-job-4480369" class="btn btn--warning" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include link-adsense.html %} 

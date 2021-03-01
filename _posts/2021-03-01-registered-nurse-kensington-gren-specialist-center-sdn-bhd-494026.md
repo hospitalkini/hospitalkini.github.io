@@ -1,0 +1,21 @@
+---
+title: "Kensington Green Specialist Center Sdn. Bhd. Vacancies Registered Nurse" 
+category: Jobs 
+date: 2021-03-01 
+excerpt: "Kensington Green Specialist Center Sdn. Bhd. is currently looking for suitable person to fill in the Registered Nurse which positioned at Johor Bahru" 
+tags: [Johor Bahru] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Kensington Green Specialist Center Sdn. Bhd. is looking for new potential candidates to fill in for <b>Registered Nurse</b> position. If you currently looking for new healthcare job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include 300-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><p>Requirements:</p><ul><li>Nationality:&#160;Malaysian</li><li>Possesses Diploma / Advance Diploma / Degree in Nursing.</li><li>Registered with Lembaga Jururawat Malaysia (LJM).</li><li>Possesses valid Annual Practicing Certificate (APC) or letter on Retention of Name (RON).</li><li>Having Post-Basic in Midwifery / Perioperative / Neonate / Paediatric / Critical Care / Orthopaedic / Infection Control / Emergency / Trauma will be an added advantage.</li><li>Pleasant attitude, good interpersonal and communication skills.</li><li>Able to work 3 rotating shifts (Morning, Afternoon, Night).</li><li>Able to multi-task and work under pressure.</li><li>At least 2 years working experience in nursing.</li></ul><p>Responsibilities:</p><ol><li>Perform nursing care and therapeutic measures conforming to current standards of nursing practice.</li><li>Document all assessments, interventions and other pertinent information in the patient's health care record in a timely and ongoing manner.</li><li>Demonstrate good communication and collaboration skills when interacting with patients/families, other health care team members and staff of other departments.</li><li>Administer prescribed medications, provide treatments using therapeutic equipments, and observe patients' reactions to medication and treatments. Observe progress of patients (IV infusion, wounds, and vital signs) to detect deviations.&#160;</li><li>Ensure care of equipment and report any malfunction to the Biomedical Department.</li><li>Provide health education to the patients and families according to their needs.</li><li>Comply with hospital policies, procedures, infection control and safety protocols.</li><li>Perform other related duties as assigned or requested.&#160;&#160;</li></ol></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>Kensington Green is a multi-disciplinary, private hospital located in Iskandar Puteri, Johor Bahru (JB), Malaysia. Our specialist hospital is fully equipped with 80 general and acute care beds and provide a comprehensive range of clinical specialties as well as ancillary services including rehabilitation therapy and imaging services.</p><p>Our Consultant Specialists cover a range of specialties including&#160;Aesthetic,&#160;Anaesthesiology,&#160;Emergency Department,&#160;Fertility and IVF,&#160;General Surgeon,&#160;Obstetrician &amp; Gynaecologist,&#160;Orthopaedic Surgeon,&#160;Paediatrics,&#160;Physician,&#160;Psychiatrist,&#160;Psychologist,&#160;Radiologist,&#160;Reconstructive Surgery, and&#160;Urology.</p><p>Our mission is to provide high standards of personalised and compassionate care to our patients with seamless coordination, forward-thinking leadership, and a collaborative approach from our internationally qualified medical specialists and staff.</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream hospital job in Johor Bahru. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/registered-nurse-4494026?jobId=jobstreet-my-job-4494026" class="btn btn--warning" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 

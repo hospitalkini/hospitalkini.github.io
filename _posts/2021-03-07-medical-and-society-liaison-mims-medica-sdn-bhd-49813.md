@@ -1,0 +1,28 @@
+---
+title: "MIMS Medica Sdn Bhd Vacancies Medical and Society Liaison" 
+category: Jobs 
+date: 2021-03-07 
+excerpt: "MIMS Medica Sdn Bhd is currently looking for suitable person to fill in the Medical and Society Liaison which positioned at Selangor" 
+tags: [Selangor] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>MIMS Medica Sdn Bhd is looking for new potential candidates to fill in for <b>Medical and Society Liaison</b> position. If you currently looking for new healthcare job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include 300-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><div>The Medical and Society Liaison is responsible for establishing and maintaining cordial, mutually beneficial working relationships with Key External Experts (KEEs) and Society Partners (SPs) aimed at fostering scientific/educational collaboration &#8211; this leads to a positive perception of MIMS among these stakeholders (ie, building the MIMS brand) and opportunities for revenue growth.</div><div><div><strong>Key responsibilities</strong><br>1.Society engagement</div><ul><li>Working with the Director, Regional Medical &amp; Society Engagement, assists in the identification of key healthcare professional (HCP) societies/organizations for engagement/re-engagement and in planning approaches to engagement</li><li>Organizes meetings with SP representatives and facilitates/participates in these meetings as necessary</li><li>Working with MPF/Country colleagues, liaises with the relevant statutory/national level organizations that oversee continuing medical education (CME)/continuing professional development (CPD) in the respective countries to facilitate CME/CPD accreditation of MIMS Education e-learning modules</li><li>Develops reports and other documentation relevant to SP meetings and activities</li><li>Manages SP feedback, including ensuring transmission to the concerned Business Unit team/Country team/colleague and assessing if feedback was adequately addressed</li><li>Contributes to development and growth of the MPF Business Unit through generation of new product and partnership ideas/proposals and securing SP participation and collaboration</li></ul><div>2. KEE engagement</div><ul><li>Working with the Director, Regional Medical &amp; Society Engagement, fosters cordial relationships with KEEs via optimally conducted meetings and ongoing correspondence</li><li>Coordinates the involvement of KEEs in MIMS projects and solutions across Business Units/Countries</li><li>Manages KEE feedback, including ensuring transmission to the concerned Business Unit team/Country team/colleague and assessing if feedback was adequately addressed</li></ul><div>3. Maintenance of KEE/SP engagement ecosystem</div><ul><li>Assists in the development and maintenance of MIMS&#8217;s online KEE/SP database &amp; relationship management system</li><li>Liaises with MIMS colleagues across Business Units/Countries who are designated &#8216;owners&#8217; of specific KEE/SP relationships to ensure alignment of communication and engagement outcomes</li><li>Develops reports and other documentation relevant to the KEE/SP engagement ecosystem</li></ul><div><strong>Job requirements</strong></div><ul><li>Graduate degree in the healthcare sciences (MD, MBBS, PharmD, BSc in nursing or allied profession)</li><li>At least 3 years of work experience in the pharmaceutical industry or a healthcare communications agency</li><li>Previous experience in working with HCP societies a plus</li><li>Excellent communication and interpersonal skills</li><li>Strong working knowledge of MS Office applications</li><li>Highly organized and efficient with a keen eye for detail</li><li>Creative thinker and resourceful problem solver&#160;&#160;</li><li>Proactive and self-motivated</li></ul></div><div><strong>Key behaviours</strong></div><ul><li>Engagement mindset</li><li>Internal collaboration</li><li>Learning agility</li><li>Positive and energising</li><li>Creative and innovative</li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>
+	Established in 1963, MIMS is a multi-channel provider of drug information, medical education and services connecting healthcare communities. Our work empowers healthcare providers (HCPs) to improve patient outcomes by facilitating knowledge exchange and better decision-making.
+	
+	<div>
+		Today, MIMS is present in 16 countries across Asia Pacific with approximately two million HCP subscribers to its drug &amp; resource portal, digital and print publications. Our teams across Asia Pacific are experienced in medical education, content development, medical publications, digital solutions and event management.</div>
+<div>
+		The unique assets and capabilities of MIMS across our multiple products and services &#8211; customised scientific communications, drug and resource portal, database of physicians, journals and related publications, and healthcare data &#8211; enable us to provide value-added benefits to this proposed education programme.</div>
+</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream hospital job in Selangor. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/medical-and-society-liaison-4498813?jobId=jobstreet-my-job-4498813" class="btn btn--warning" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 

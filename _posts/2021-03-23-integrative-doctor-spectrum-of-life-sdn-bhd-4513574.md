@@ -1,0 +1,21 @@
+---
+title: "SPECTRUM OF LIFE SDN BHD Vacancies Integrative Doctor" 
+category: Jobs 
+date: 2021-03-23 
+excerpt: "SPECTRUM OF LIFE SDN BHD is currently looking for suitable person to fill in the Integrative Doctor which positioned at Kuala Lumpur" 
+tags: [Kuala Lumpur] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>SPECTRUM OF LIFE SDN BHD is looking for new potential candidates to fill in for <b>Integrative Doctor</b> position. If you currently looking for new healthcare job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include 300-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><p>We are looking for an Integrative Doctor who believed in Integrative Medicine and embrace the philosophy of treating the patient as a whole person. You need to be resourceful, passionate and caring in delivering stellar patient care through advanced integrative medical practices. We will love you if you are flexible, adaptable and affable to work with our awesome SOL team.</p><p>As a friendly and loving doctor in our centre, you will be:</p><ul><li>Responding to medical/health problems presented by patients including history taking, diagnosis, investigation, treatment and referral as appropriate;</li><li>Maintaining confidentiality and impartiality;</li><li>Commissioning healthcare by liaising with medical professionals in the community, hospital etc.</li><li>Promoting health education in conjunction with other health professionals;</li><li>Working with other (doctors / naturopath / acupuncturists / physiotherapists as part of a team, either in the same department or within other specialties)</li><li>Keeping up to date with medical developments, treatments and medications, including alternative and complementary medicine;</li><li>Assist with planning to evaluate performance levels, quality of service, productivity and future needs.</li><li>Ensure proper functioning of day to day operations of the centre in coordination with the management team, to provide consistent quality of care to customer and client of the centre.</li></ul><p>This job might be for you if you possess the following criteria:</p><ul><li>A MBBS Doctor</li><li>Open to other alternative treatments.</li><li>Willing to explore new natural treatments.</li></ul><p>It will be awesome if you:</p><ul><li>Possess positivity &amp; enthusiasm.</li><li>Have experience in Integrative Medicine, Functional Medicine and Complementary Medicine.</li><li>Are passionate, loving and caring.</li><li>Able to handle criticism.</li><li>Have exceptional communication, time management, and customer service skills.</li><li>Good at public speaking</li></ul><p>The perks you&#8217;ll enjoy:</p><ul><li>Competitive salary package.</li><li>A team of supportive and awesome people to work with.</li><li>Opportunities for career development and advancement.</li><li>An open mind for new ideas. We value creativity, hard work, initiative and radical ideas.</li></ul><p>Think you might be a good fit? Then flaunt your impressive resume already!</p></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>We are an awarded (by Malaysia Tourism Council) integrative healthcare center&#160;(alternative and complementary medicine) in the capital of Malaysia Kuala Lumpur that has a space of roughly 34,000 square feet. Our center is similar to a medical center which provides full health screening, treatment, and prescription of supplements/herbs/nutrition.Our company has dedicated employees working together towards a common goal of achieving excellence.We are a company focused on talent development to help build our expanding business.</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream hospital job in Kuala Lumpur. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/integrative-doctor-4513574?jobId=jobstreet-my-job-4513574" class="btn btn--warning" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 

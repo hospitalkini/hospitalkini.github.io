@@ -1,0 +1,21 @@
+---
+title: "DSN PHARMA SDN. BHD. Vacancies Veterinary Surgeon Doctor" 
+category: Jobs 
+date: 2021-03-24 
+excerpt: "DSN PHARMA SDN. BHD. is currently looking for suitable person to fill in the Veterinary Surgeon Doctor which positioned at Shah Alam/Subang" 
+tags: [Shah Alam/Subang] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>DSN PHARMA SDN. BHD. is looking for new potential candidates to fill in for <b>Veterinary Surgeon Doctor</b> position. If you currently looking for new healthcare job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include 300-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><p><strong>We are looking for Veterinary Doctor to practice in our clinic located at Puncak Bestari Selangor (Must be able to start by May 2021)</strong></p><strong>Job Description</strong><ul><li>Looking for a small animal veterinary surgeon who has <strong>at least 2 year</strong> of working experience.</li><li><strong>Competent</strong> Veterinary surgeon will be <strong>offered profit sharing</strong> or <strong>partnership</strong>. (After working for an evaluation period)</li><li><strong>Fresh graduates</strong> (oversea or local) are <strong>encouraged</strong> to apply.</li><li>For Fresh Graduates, if there is any <strong>loan</strong>, company willing to <strong>cover the loan amount subject to T&amp;C</strong>.</li><li>Proficiency in medicine and general surgery.</li><li>Able to work independently &amp; as a team members</li><li>Commitment to practice high standard of medicine, good communication skill and being professional and courteous to clients and staffs</li><li>Must be<strong> registered with Malaysia Veterinary Association </strong>and is able to practice legally in Malaysia (preferably Malaysian)</li></ul><p><strong>Benefits:</strong></p><ul><li>Competitive <strong>salary - RM 4,500.00 - 6,500.00</strong></li><li><strong>Student Loan Contribution</strong>s (subject to T&amp;C)</li><li>Opportunity to do <strong>locum at the clinic</strong> at standard market rate.</li><li>Commission and <strong>yearly bonus</strong></li><li><strong>Allowance (transportation and phone bill).</strong></li><li><strong>Monthly sale target allowance.</strong></li><li>Personal leave.</li><li>Medical card / <strong>insurance coverage</strong> up to<strong> RM 1 million.</strong></li></ul><p><strong>Must be able to:</strong></p><ol><li>Assessing and examining patients, and diagnosing their medical issues.</li><li>Conducting laboratory tests on specimens to diagnose medical conditions.</li><li>Performing diagnostic imaging and ultrasound tests.</li><li>Performing surgery, dressing and treating wounds, and prescribing medication.</li><li>Promoting preventative care by advocating and administering routine vaccinations, and by educating clients on positive diet and lifestyle choices for pets.</li><li>Ensuring compliance with veterinary ethics and relevant statutes, policies, and procedures.</li><li>Maintaining patient&#8217;s medical records.</li></ol></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>DSN Pharma Sdn Bhd was establish in 9 March 2020 and it was the initiative of a Veterinary Dr and also a experience Pharmacist to setup up a <strong>wholesale Pharmacy</strong> which can cater the needs of Veterinary Drs for a clinic and hospital, all kinds of Farmers and also to the relevant government bodies.</p><p>With the moto of "<strong>More than just a&#160;Pharmacy,&#160;We serve with care from Small to Large , Quality to All</strong>", we aspire to be the leading provider and solution to all veterinary fields.</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream hospital job in Shah Alam/Subang. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/veterinary-surgeon-doctor-4515905?jobId=jobstreet-my-job-4515905" class="btn btn--warning" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 

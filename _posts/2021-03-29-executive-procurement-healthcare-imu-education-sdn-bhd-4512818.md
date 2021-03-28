@@ -1,0 +1,26 @@
+---
+title: "IMU Education Sdn Bhd Vacancies Executive, Procurement - Healthcare" 
+category: Jobs 
+date: 2021-03-29 
+excerpt: "IMU Education Sdn Bhd is currently looking for suitable person to fill in the Executive, Procurement - Healthcare which positioned at Kuala Lumpur" 
+tags: [Kuala Lumpur] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>IMU Education Sdn Bhd is looking for new potential candidates to fill in for <b>Executive, Procurement - Healthcare</b> position. If you currently looking for new healthcare job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include 300-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><div><strong>Job Summary:-</strong></div><div>To work together with the team to ensure the effective and efficient operations of the Healthcare Procurement Department. To provide assistant and support to the Procurement Manager-Healthcare in administrative and operational matters relating to the department. Consistently target at Cost Containment and/or Cost Savings without compromising on Quality or Patient&#8217;s Safety.&#160;</div><div><strong>Job Responsibilities:-</strong></div><ul><li>Working together with Healthcare Procurement Team procures the right quantity and quantity of items/services from the right Vendor at the right time with the right price and terms.</li><li>Working together with the team ensure un-interrupted supply of items/services &#8211; in IMU Hospital and IMU ACC Clinics.</li><li>Conduct alternative sourcing for better or equivalent Quality / Service and competitive pricing</li><li>Ensure timely issuance of Purchase Order</li><li>Practice Cost Containment and Cost Savings at all times.</li><li>Ensure that Procurement Team involves all stakeholders in the decision making for procurement of products or services and hospital&#8217;s interests are protected at all times.</li><li>Working together with the team expedites outstanding purchase orders to ensure delivery requirements are met.</li><li>Working together with Healthcare Procurement Team effective &amp; efficient administration of Vendor&#8217;s information prior to registering them in IMU Healthcare HIS System / database. (Done in accordance with the Department&#8217;s Policies and Procedures).</li><li>To assist daily operations in an effective and efficient manner within the policies &amp; procedures set by the company.</li><li>Coordinates and resolves problems, product complaint and product recall with end user departments and suppliers.</li><li>Prepares and maintains accurate records and documentation on all solicitations, responses, purchases, contracts, correspondence and related follow up. Ensure filing system is maintained to allow effective audit trails.</li><li>Assist in preparing documentation for Contracts and Tenders.</li><li>Assist Procurement Manager - Healthcare in running Tenders for Medical Equipment following Company&#8217;s Tender Policies &amp; Procedures.</li><li>Assist Procurement Manager - Healthcare to resolve problems related to specifications, quality, delivery &amp; price.</li><li>Undertake additional duties and task assigned by the Procurement Manager &#8211; Healthcare.</li></ul><div><strong>Job Requirements:-</strong></div><div><div><strong>Qualification:</strong><br>&#8226; Degree or Diploma in Procurement, Business Administration or related field.</div><div><strong>Experience:</strong><br>&#8226; Working experience min 2-4 years or more in Healthcare or Hospital industry.<br>&#8226; Experience in Hospital Information System.<br>&#8226; Experienced with Hospital Medical Surgical Consumables<br>&#8226; Strategic Sourcing of Products &amp; Services<br>&#8226; Management of Contracts &amp; Tenders<br>&#8226; Negotiations</div><div><strong>Knowledge:</strong></div><div>&#8226; Knowledge in Hospital Information System Inventory<br>&#8226; Knowledge related regulatory in Healthcare Procurement Requirements.</div></div></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>
+	The International Medical University (IMU) is Malaysia&#8217;s first and most established private medical and healthcare university with over 24 years of dedicated focus in healthcare education. Established in 1992, the University enjoys an international reputation, and provides a high standard of education at undergraduate, postgraduate and continuing professional development level. Its programmes consist of both local tracks (IMU degree), as well as international partner tracks (partner university degree).&#160;</div>
+<div>
+<strong>Product &amp; Services</strong></div>
+<div>
+	Medical education and Pharmacy programme</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream hospital job in Kuala Lumpur. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/executive-procurement-healthcare-4512818?jobId=jobstreet-my-job-4512818" class="btn btn--warning" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 

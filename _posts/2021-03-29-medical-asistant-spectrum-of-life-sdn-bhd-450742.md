@@ -1,0 +1,21 @@
+---
+title: "SPECTRUM OF LIFE SDN BHD Vacancies Medical Assistant" 
+category: Jobs 
+date: 2021-03-29 
+excerpt: "SPECTRUM OF LIFE SDN BHD is currently looking for suitable person to fill in the Medical Assistant which positioned at Kuala Lumpur" 
+tags: [Kuala Lumpur] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>SPECTRUM OF LIFE SDN BHD is looking for new potential candidates to fill in for <b>Medical Assistant</b> position. If you currently looking for new healthcare job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include 300-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><div>We are looking for Medical Assistant who believed in Integrative Medicine and embrace the philosophy of treating the patient as a whole person. You need to be resourceful, passionate and caring in delivering stellar patient care through advanced integrative medical practices. We will love you if you are flexible, adaptable and affable to work with our awesome SOL team.As a friendly and loving medical assistant in our centre, you will be:<ul><li>Performing diagnostics and wellness treatments to clients.</li><li>Maintaining all treatment rooms and diagnostics rooms according to standards and tasks lists.</li><li>Maintaining stock and cleanliness of treatment rooms and storage areas.</li><li>Conduct inventories and requests ordering of professional products and supplies.</li><li>Works closely with the team of Staff Nurses.</li><li>Imparts knowledge on best-practice nursing procedures to team members.</li><li>Understand all treatments and screening facilities in the centre.</li><li>Maintain queuing system.</li><li>Collaborates with other health care team members to develop healthcare plans that promote continuity for clients as they receive complementary and alternative health care</li></ul><br>This job might be for you if you possess the following criteria:<ul><li>A Diploma or Degree in medical assistant / nursing with valid Annual Practising Certificate (APC)</li><li>At least 5 Year(s) of working experience in the related field is required for this position.</li><li>Registered under the Medical Assistant Board / Nursing Board.</li><li>Patience in handling clients and ensure their well beings.</li><li>Professional responsibility and accountability.</li></ul><br>It will be awesome if you:<ul><li>Possess positivity &amp; enthusiasm.</li><li>Are passionate, loving and caring.</li><li>Able to handle criticism.</li><li>Have exceptional communication, time management, and customer service skills.</li><li>Knowledge in complementary and alternative medicine treatment and screening</li></ul><br>The perks you&#8217;ll enjoy:<ul><li>Competitive salary package.</li><li>A team of supportive and awesome people to work with.</li><li>Opportunities for career development and advancement.</li><li>An open mind for new ideas. We value creativity, hard work, initiative and radical ideas.</li></ul><br>Think you might be a good fit? Then flaunt your impressive resume already!</div></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>We are an awarded (by Malaysia Tourism Council) integrative healthcare center&#160;(alternative and complementary medicine) in the capital of Malaysia Kuala Lumpur that has a space of roughly 34,000 square feet. Our center is similar to a medical center which provides full health screening, treatment, and prescription of supplements/herbs/nutrition.Our company has dedicated employees working together towards a common goal of achieving excellence.We are a company focused on talent development to help build our expanding business.</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream hospital job in Kuala Lumpur. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/medical-assistant-4507742?jobId=jobstreet-my-job-4507742" class="btn btn--warning" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 

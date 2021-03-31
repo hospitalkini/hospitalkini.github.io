@@ -1,0 +1,21 @@
+---
+title: "Company Confidential Vacancies CLINICAL RESEARCH MANAGER (Clinical Trial Projects) @ Pharma / Hospital/ Academy" 
+category: Jobs 
+date: 2021-03-31 
+excerpt: "Company Confidential is currently looking for suitable person to fill in the CLINICAL RESEARCH MANAGER (Clinical Trial Projects) @ Pharma / Hospital/ Academy which positioned at Kuala Lumpur" 
+tags: [Kuala Lumpur] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Company Confidential is looking for new potential candidates to fill in for <b>CLINICAL RESEARCH MANAGER (Clinical Trial Projects) @ Pharma / Hospital/ Academy</b> position. If you currently looking for new healthcare job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include 300-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><div><div><strong>Overall ownership of clinical studies for the organization including effective management of research projects studies.</strong></div><ul><li>Management of <strong>all clinical sites from start up to close-out</strong>.&#160;</li><li><strong>Lead the Clinical Research Team (Clinical Trial)</strong> to achieve key performance</li><li>Work on Management Proposals for new projects by conducting scientific and feasibility review of new projects</li><li>Plan, manage and review research projects&#8217; execution to ensure they are within approved budget, resources &amp; timeline.</li><li>Develop new study protocols, research proposals, research budget and to review projects for cost impact and risks for unplanned deviations.</li><li>Prepare and manage submissions for the <strong>EC (Ethics) &amp; RA (MOH/Country) submissions</strong></li><li>Manage and follow up IND submissions, Orphan Drug applications and maintenance of regulatory and ethics approval</li><li>Identify, collaborate and manage project progress with external contract research organization, collaborators and project managers to new project start-ups and support research project for product development.</li><li>Internal collaboration including agreements review with Legal Department, study documents and drug dossier with Regulatory Affairs, drug safety issues with Clinical Research Physician and new research findings and technical responses to support Marketing team on products of interest.</li><li>External collaboration with regulatory consultants e.g. Europe CROs / agents / representatives</li><li>Attend meetings to secure successful regulatory applications such as Orphan Drug Designation and Pre-IND meetings with US FDA.</li></ul></div><div>Ideal Talents:</div><ul><li><strong>PHD/Master/Degree in Medical/Bio/Pharma </strong>or related disciplines.&#160;</li><li>Preferably <strong>4-5 years </strong>of experience in <strong>conducting research for clinical trial projects&#160;</strong>&amp; currently at <strong>Managerial/Supervisory </strong>level.&#160;</li><li>Similar experience in <strong>Pharmaceutical / Hospital / Academy </strong>fields.&#160;</li><li>Good communication + leadership skills.&#160;</li><li>Permanent vacancy. Flexible work location - Selangor / Penang / Perak</li></ul><div>* Interested incumbents, please <strong>APPLY ONLINE</strong>. Shorlisted incumbents will be notified within 3 working days *</div></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>We are a leading Regional Executive Search Company who provides staffing services for corporate clients in multiple industries.&#160;</div><div><strong>Our client is an International Pharmaceutical Company who is currently seeking a Senior Professional Clinical Research Specialist to lead the Clinical Trial projects &amp; team members.&#160;</strong></div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream hospital job in Kuala Lumpur. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/clinical-research-manager-clinical-trial-projects-@-pharma-hospital-academy-4522050?jobId=jobstreet-my-job-4522050" class="btn btn--warning" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 

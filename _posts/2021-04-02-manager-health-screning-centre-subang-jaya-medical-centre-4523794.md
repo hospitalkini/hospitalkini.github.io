@@ -1,0 +1,24 @@
+---
+title: "Subang Jaya Medical Centre Vacancies MANAGER, HEALTH SCREENING CENTRE" 
+category: Jobs 
+date: 2021-04-02 
+excerpt: "Subang Jaya Medical Centre is currently looking for suitable person to fill in the MANAGER, HEALTH SCREENING CENTRE which positioned at Selangor" 
+tags: [Selangor] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Subang Jaya Medical Centre is looking for new potential candidates to fill in for <b>MANAGER, HEALTH SCREENING CENTRE</b> position. If you currently looking for new healthcare job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include 300-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><div><strong>JOB PURPOSE</strong></div><ul><li>Accountable for the business performance of the Health Screening Centre and lead the centre to achieve its&#160; business objectives while ensuring high customer satisfaction.</li><li>Work closely with Corporate Marketing team to develop and implement relevant health packages and programs that promote wellness and care through education, screening and diagnosis.</li><li>Responsible for the efficient coordination and facilitation of local and international health screening patient&#8217;s management.</li></ul><div><strong>JOB CONTENT</strong></div><ul><li>Oversees the Health Screening Centre administrative and operational activities and ensures its smooth operation, balancing quality and finance objectives.</li><li>Accountable for the business performance of the Health Screening Centre. Apply and maintain good control over the financial processes, charging and revenue protocols, ensuring accuracy and effective compilation of all patient related charges.</li><li>Coordinate and guide the development of medical and health packages and services that the market requires within ethical practices to improve employee health, wellness and fitness.</li><li>Conduct periodic review on the packages offering and conduct market survey to ensure competitiveness.</li><li>Effective management of the roster to maximize productivity.</li><li>Ensure all analysis and utilization reports are kept up to date and easily retrievable for audit purpose</li><li>Lead the department to a high level of morale and performance outcome among and between staff, HSC medical officers and our customers (patient &amp; corporate clients) by promoting and encouraging excellent communication channels between them</li><li>Ensures prompt and comprehensiveness in the handling of all enquiries and patient management</li></ul><div><strong>QUALIFICATION, EXPERIENCE, KNOWLEDGE, SKILLS &amp; ATTRIBUTES</strong></div><ul><li>Master/Bachelor&#8217;s Degree in Nursing, Business Studies or Hospitality Management along with significant experience would also be acceptable.</li><li>5 years post-qualification experience in a service-oriented industry with at least 3 years of supervisory experience is required</li><li>Familiar with medical terminologies is an advantage</li><li>Good negotiation skills and experience in sales and marketing is preferable</li><li>Able to multitask, work under pressure and meet deadlines</li><li>Strong interpersonal, communication and analytical skills</li><li>Strong business operations knowledge is essential</li><li>Able to drive change by implementing new programs for Health Screening Centre</li></ul><div><strong>If you are interested, kindly click the " apply" button!</strong></div></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>
+	Equipped with 444 beds, 128 clinic suites and 9 operating theatres that treat up to 1,800 outpatients and 300 inpatients daily, the award-winning SJMC has made medical history in Malaysia with its many achievements over the last two decades through its excellence in healthcare.</div>
+<div>
+	As Ramsay Sime Darby Health Care&#8217;s flagship hospital, many of SJMC's 160 specialists were trained in the UK, Australia or the US and are key opinion leaders in their respective fields in the region. SJMC boasts of some of the world&#8217;s most sophisticated medical systems for diagnostics and therapies, which include a 64-slice PET/CT scanner, a 3.0Tesla MR scanner, a3D High Dose Rate brachytherapy system, a Dual Source CT scanner and a TomoTherapy Hi-Art System.</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream hospital job in Selangor. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/manager-health-screening-centre-4523794?jobId=jobstreet-my-job-4523794" class="btn btn--warning" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 

@@ -1,0 +1,26 @@
+---
+title: "IMU Education Sdn Bhd Vacancies Assistant Manager, Medical Records" 
+category: Jobs 
+date: 2021-04-15 
+excerpt: "IMU Education Sdn Bhd is currently looking for suitable person to fill in the Assistant Manager, Medical Records which positioned at Kuala Lumpur" 
+tags: [Kuala Lumpur] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>IMU Education Sdn Bhd is looking for new potential candidates to fill in for <b>Assistant Manager, Medical Records</b> position. If you currently looking for new healthcare job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include 300-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><div><div><strong>Job Summary</strong></div><ul><li>Plans, monitors and supervises all medical records, operational activities in the most effective and efficient manner and ensures that the patient records are maintained and managed in compliance with current government regulations and accreditation standards.</li><li>Ensures patients&#8217; records are being delivered to the requesters in a prompt and timely manner.</li><li>Oversees all other medical record related activities such as diagnosis and procedural classification (coding), medical report processing, medical secretarial and transcription services.</li><li>Monitors the department activities to ensure smooth operations and proper management of the department, in meeting the service and quality indicators set by the department</li></ul><div><strong>Job Description</strong></div><div><strong>Supervision and Management</strong></div><ul><li>Supervise and coordinate the daily activities and functions of the department including filing, retrieval and archiving of medical records, processing applications for medical reports/insurance certificates, registration of deaths, ICD coding, notification of infectious diseases, mortality, cancer cases, etc.</li><li>Ensure the safety and security of medical records.</li><li>Ensure request for medical reports are handled according to Personal Data and Privacy Act.</li><li>Timely and accurate reporting to Ministry of Health and Regulatory bodies; Communicable diseases, monthly reports etc.&#160;</li><li>Proper management of medical record storage, retention, archival and disposal</li><li>To coordinate and monitor the work performed by Medical Record staff in order to provide efficient service.</li><li>To develop and update the policies and procedures for the department.</li></ul><div><br><strong>Customer Service</strong></div><ul><li>To oversee the servicing of customers, both internal and external in matters relating to medical records functions.</li><li>To provide courteous and tactful customer service and taking necessary actions to promptly process applications for medical reports/insurance certificates and death certificates and to ensure that the completed documents are issued to authorized persons.</li><li>To monitor that the workflow is running smoothly and that all customers are being attended promptly while ensuring the security control of the work area.</li></ul><strong>Others</strong><ul><li>Develop procedure and supervise the culling of inactive medical records for secondary storage as and when required.</li></ul></div><div><strong>Job Requirement&#160;</strong></div><ul><li>Degree in Health Information Management or Nursing, or any other healthcare related discipline.</li><li>Have at least 5 years of working experience in a hospital or health related organization and 3 years managing the department. Strong nursing or clinical knowledge would be advantage.</li><li>Possesses knowledge in diagnosis and procedural classification using ICD 10 and ICD 9CM procedural codes.</li><li>Familiar with the MOH reporting requirements and procedures.</li><li>Experience and understanding of healthcare standards and quality practices will be an advantage.</li><li>Knowledge on medical report request related to insurance claims and reimbursement processes.</li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>
+	The International Medical University (IMU) is Malaysia&#8217;s first and most established private medical and healthcare university with 27 years of dedicated focus in healthcare education. Established in 1992, the University enjoys an international reputation, and provides a high standard of education at undergraduate, postgraduate and continuing professional development level. Its programmes consist of both local tracks (IMU degree), as well as international partner tracks (partner university degree).&#160;</div>
+<div>
+<strong>Product &amp; Services</strong></div>
+<div>
+	Medical education and Pharmacy programme</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream hospital job in Kuala Lumpur. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/assistant-manager-medical-records-4535681?jobId=jobstreet-my-job-4535681" class="btn btn--warning" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 

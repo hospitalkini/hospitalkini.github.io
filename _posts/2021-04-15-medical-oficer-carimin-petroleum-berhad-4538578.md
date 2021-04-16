@@ -1,0 +1,26 @@
+---
+title: "CARIMIN PETROLEUM BERHAD Vacancies MEDICAL OFFICER" 
+category: Jobs 
+date: 2021-04-15 
+excerpt: "CARIMIN PETROLEUM BERHAD is currently looking for suitable person to fill in the MEDICAL OFFICER which positioned at Labuan" 
+tags: [Labuan] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>CARIMIN PETROLEUM BERHAD is looking for new potential candidates to fill in for <b>MEDICAL OFFICER</b> position. If you currently looking for new healthcare job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include 300-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><p><strong>JOB RESPONSIBILITIES:</strong></p><ul><li>Provide medical treatment and emergency first aid to all for both onshore and offshore assignment.</li><li>Work with OIM/Master on training, drills and associated direction of team members.</li><li>Maintain all hospital related records.</li><li>Conduct all medical audit, health and sanitation inspection for internal and external reports.</li><li>To promote campaign related to good health (i.e., physical fitness, weight loss and stop smoking program).</li><li>Performing normal and random alcohol/drug test.</li><li>Administer medication register and management of medicines.</li><li>Maintaining medicines and hospital equipment for onshore &amp; offshore site assignment.</li><li>Performing passenger management on board (i.e., passenger movement, POB daily report, passenger report)</li><li>Perform any other duties assigned by company/vessel master.</li><li>Administer first aid for all illness and injuries.</li><li>Administer immediate temporary medical treatment until services of physician can be secured.</li><li>Maintain and assures readiness of emergency medical equipment and supplies. Maintain all medical records.</li><li>Perform duties as necessary during emergencies and drills to account for all people on board.</li><li>Maintain appropriate logs as required by Malaysia Regulatory rules relating to the use of all communication equipment.</li></ul><p><strong>JOB REQUIREMENTS:</strong></p><ul><li>Location: Labuan Yard/Onboard Vessel.</li></ul><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Preferably candidate with minimum 2-3 years experienced in similar capacity and position.</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Candidate from Sabah, Sarawak and Labuan will have the advantage.</p><ul><li>Duration: 1 year with extension option</li><li>Qualification &#8211; Certificate/Diploma in Medical Assistant/Nursing issued by Ministry of Health. or equivalent Medical Diploma.</li><li>Registered with Medical Assistant Board (MAB) Malaysia or Malaysia Nursing Board with valid annual practicing certificate.</li><li>Attended Advance Cardiovascular Life Support (ACLS) and Basic Life Support (BLS) would be added advantage.</li><li>Have a valid BOSIET (Basic Offshore Safety Training) will be and advantage.</li><li>Fluent in both written and spoken Bahasa Melayu and English.</li><li>Computer literacy in Microsoft Office.</li></ul><p>If you have what it takes, you are welcome to apply online. Kindly forward your updated CV in MS Word format, copy of certificate (qualification, board registration with valid APC), availability to report duty, state your current and expected rate. Only shortlisted candidates will be notified.</p></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>
+<div>Established in 1990, CARIMIN evolved to become one of the pioneer Bumiputera companies providing technical and engineering support services in the Oil and Gas Industry in Malaysia.</div>
+<div>CARIMIN specializes in engineering, scheduled/work pack development, procurement, structural/piping fabrication, electrical/instrumentation installation, pre-commissioning and commissioning activities. This includes the deployment of marine vessels such as work barges, accommodation vessels, crew boats, anchor handling tugs, etc.</div>
+<div>The business for the company grew steadily over the past decade from being a manpower service provider to a dynamic and emerging contractor in integrated maintenance, rejuvenation, hook-up and commissioning of onshore/offshore for the Oil and Gas support industries.</div>
+<div>Our competency lies in offering unique and feasible solutions to achieve the desired results in accordance with the Client's expectations. To date, CARIMIN has amassed and completed projects valued more than RM 1 billion since its inception and among our notable portfolio of clients include oil giants PETRONAS Carigali, Shell, Murphy Oil, Talisman, Exxon Mobil, New Field, Petrofac, HESS and Nippon Oil.</div>
+</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream hospital job in Labuan. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/medical-officer-4538578?jobId=jobstreet-my-job-4538578" class="btn btn--warning" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 

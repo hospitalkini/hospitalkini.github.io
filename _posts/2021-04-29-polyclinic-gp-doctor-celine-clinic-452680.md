@@ -1,0 +1,21 @@
+---
+title: "Celine clinic Vacancies Polyclinic GP Doctor" 
+category: Jobs 
+date: 2021-04-29 
+excerpt: "Celine clinic is currently looking for suitable person to fill in the Polyclinic GP Doctor which positioned at Selangor" 
+tags: [Selangor] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Celine clinic is looking for new potential candidates to fill in for <b>Polyclinic GP Doctor</b> position. If you currently looking for new healthcare job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include 300-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><p><strong>MAIN RESPONSIBILITIES:</strong></p><ul><li>Primarily involves in the medical consultations in the clinic and safeguards the rational prescription of drugs, diagnostics, laboratory tests and further medical follow up.</li><li>Responsible for the following medical services - Triage, Basic Primary Health Care, Sexual and Reproductive Health (SRH) activities including Sexual and Gender based Violence (SGBV), Antenatal Care, Non-Communicable Diseases (NCDs), basic trauma care and medical referrals.</li><li>Respecting and following the MSF referral policy for indicated referrals to secondary/tertiary medical care.</li><li>Actively considers Mental Health and Psychosocial Support (MHPSS) issues/concerns seen during OPD consultations and refers accordingly if further intervention is needed.</li><li>Actively gives feedback on medical-logistics issues (medical supply, material, medication) and support to ensure and maximize medical quality.</li><li>Actively monitors any reportable diseases seen during medical consultations.</li><li>Flexibility in taking up any other medical task when appropriate: e.g. exploratory visits/medical needs assessment, mobile clinic consultations and training activities.</li><li>Flexibility in timing.</li><li>Display a personal commitment and have respect for professional/medical ethics, humanitarian ideals and a general attitude characterized by neutrality, impartiality and non-discriminatory specifically among refugees/asylum seekers and other migrants-at-risk.</li><li>Supervision of KM6 staff .</li><li>Willingness to take part in MSF Associative life and meetings.</li><li>Perform duty as a <strong>PIC Doctor</strong> for the Clinic.</li></ul><p><strong>REQUIRED SKILLS AND CONDITIONS:</strong></p><ul><li>Malaysian Citizen</li><li>Medical Degree, registered with Malaysia Council with full registration of Annual Practicing Certificate.</li><li>2 years experience minimum as a Medical Doctor and general practice/government healthcare clinic.</li><li>SRH/SGBV, Antenatal Care, MHPSS Initiatives, NCD care and disease surveillance is desirable.</li><li>Experience in Sexual Reproductive Health is desirable.</li><li>Proficiency in obstetrics ultrasound required.</li><li>Managerial skills is desirable.</li><li>Local NGO-work experience and/or initiatives desirable.</li><li>Bahasa Malaysia and English. Other local-language desirable.</li><li>Essential computer literacy in Word, Excel and Internet.</li><li>Candidate must be a Malaysian Medical Council (MMC)&#160;registered Doctor.</li><li>Candidate must with valid APC ( MBBS is only the first degree given by some countries. Other countries may give MBCHB/ MD etc. So the title for the basic medical degree is not important. But the candidate must have a valid annual practising licence (APC) approved by MMC.</li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>Celine Clinic Sunway Mentari&#20301;&#20110;42, Jalan PJS 8/2, Sunway Mentari, 46150 Petaling Jaya, Selangor, Malaysia&#65292; &#20843;&#25171;&#28789;&#20877;&#20063;&#65292; &#38634;&#34349;&#33706;..&#160;</p><p>Categories Health/Beauty, Plastic Surgeon, Women's Health Clinic.&#160;</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream hospital job in Selangor. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/polyclinic-gp-doctor-4552680?jobId=jobstreet-my-job-4552680" class="btn btn--warning" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 

@@ -1,0 +1,21 @@
+---
+title: "MERCURY PHARMACY SDN.BHD. Vacancies Pharmacist (Full-Time, Locum)" 
+category: Jobs 
+date: 2021-05-18 
+excerpt: "MERCURY PHARMACY SDN.BHD. is currently looking for suitable person to fill in the Pharmacist (Full-Time, Locum) which positioned at Kelantan, Pahang, Terengganu" 
+tags: [Kelantan, Pahang, Terengganu] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>MERCURY PHARMACY SDN.BHD. is looking for new potential candidates to fill in for <b>Pharmacist (Full-Time, Locum)</b> position. If you currently looking for new healthcare job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include 300-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><ul><li><span>Able to manage store operation</span></li><li><span>Training pharmacy assistants and sales personal</span></li><li><span>Counsel and advice patients on their medication regimen and improving health condition</span></li><li><span>Screen prescriptions and supply accurately</span></li><li><span>Recommend suitable health supplements to promote health and prevention of disease state</span></li><li><span>Provide basic health screenings</span></li><li><span>Provide healthcare advice tailored to each individual to encourage a healthier lifestyle and improve customer quality of life</span></li><li><span>Keep up-to-date on pharmacy practice, medications, and guidelines</span></li><li><span>Attend to customer's complaints</span></li><li><span>Maintain prescription, special records, and poison book as according to regulation.</span></li><li><span>Inventory management: stock levels and expiry.</span></li><li><span>Community participation. Giving occasional health talks and support groups to contribute to the local community</span></li><li><span>Actively involved with HQ to jointly promote and market products</span></li><li><span>Good communication with HQ and store</span></li><li><span>Cover for other pharmacists within the group if the need arises</span></li></ul><p><strong>Requirements:</strong></p><ul><li><span>Candidate must possess a Bachelor's Degree, Masters in Pharmacy, or PharmD</span></li><li><span>Registered with the Malaysia Pharmaceutical Board</span></li><li><span>Able to obtain License A for pharmacy operations</span></li><li><span>Required language proficiency: Bahasa Malaysia, English, Mandarin (added advantage)</span></li><li><span>Possess own transportation</span></li><li><span>Experience in retail pharmacy is an added advantage</span></li><li><span>Fresh graduates encouraged to apply. Training is provided</span></li><li><span>Must be able to work on weekends and public holidays</span></li><li><span>Willing to work on shift basis</span></li><li>Willing to travel when required</li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>Mercury Pharmacy opened its first retail pharmacy&#160;at Mentakab, Pahang in the year 1985. After more than 35 years of serving the community, Mercury now has a fleet of 15&#160;retail Pharmacies across Pahang, Kelantan, and Penang, and more than 100 colleagues.&#160;</p><p>Not just a regular Pharmacy. Mercury Pharmacy aims to be your one-stop center for all your health and personal needs while remaining committed to supplying quality products at an affordable price. Our professionally trained staff are ever ready to provide medical counseling on your prescribed medications, as well as advise you on appropriate nutrition and supplementation to sustain a healthy lifestyle.&#160;</p><p>Mercury Pharmacy firmly beliefs that everyone's health can be improved with a healthy body and healthy mind. We strive not only to be the best Pharmacy in Malaysia but to also provide quality healthcare at a low price, ensuring everyone is able to afford their healthcare needs.</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream hospital job in Kelantan, Pahang, Terengganu. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/pharmacist-full-time-locum-4568558?jobId=jobstreet-my-job-4568558" class="btn btn--warning" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 

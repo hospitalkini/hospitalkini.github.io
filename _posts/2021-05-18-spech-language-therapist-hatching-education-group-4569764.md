@@ -1,0 +1,24 @@
+---
+title: "Hatching Education Group Vacancies Speech-Language Therapist" 
+category: Jobs 
+date: 2021-05-18 
+excerpt: "Hatching Education Group is currently looking for suitable person to fill in the Speech-Language Therapist which positioned at Petaling Jaya" 
+tags: [Petaling Jaya] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Hatching Education Group is looking for new potential candidates to fill in for <b>Speech-Language Therapist</b> position. If you currently looking for new healthcare job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include 300-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><p><strong>Skill Requirements:</strong></p><p><span>&#183;&#160;&#160;&#160;Possess at least Bachelor&#8217;s Degree in Speech Sciences or Speech Pathology.</span></p><p><span>&#183;&#160;&#160;&#160;At least ONE year of working experience in the related field.</span></p><p><span>&#183;&#160;&#160;&#160;Fresh graduates are also welcomed to apply. Training and mentoring will be provided.</span></p><p><span>&#183;&#160;&#160;&#160;Independent, responsible, hardworking, creative and love to work with children.</span></p><p><span>&#183;&#160;&#160;&#160;Possess good interpersonal and leadership skills who is ready to take challenges, and operate in a flexible, fast-paced and opportunistic environment.</span></p><p><span>&#183;&#160;&#160;&#160;Collaborate well and maintain good relationship with the team members (e.g. Child/ Clinical Psychologist, Occupational Therapist, Physiotherapist, teachers etc), families and community resources.</span></p><p><span>&#183;&#160;&#160;&#160;Critical-thinking, have good clinical documentation skills and able to meet deadlines.</span></p><p><strong>Key Responsibilities:</strong></p><p><span>&#183;&#160;&#160;&#160;Assess and diagnose children with speech, language, communication and/or feeding disorders.</span></p><p><span>&#183;&#160;&#160;&#160;Prepare individualised intervention goals in the areas of speech, language, communication and/or feeding.</span></p><p><span>&#183;&#160;&#160;&#160;Carry out the individual and/or group therapy sessions, both physically and online (teletherapy).</span></p><p><span>&#183;&#160;&#160;&#160;Collaborate with teachers from time-to-time regarding therapy session, and carryover of therapeutic goals and activities (suitable to be carried out in classroom settings).</span></p><p><span>&#183;&#160;&#160;&#160;Prepare weekly short note/report to parents, initial assessment and progress report as needed.</span></p><p><span>&#183;&#160;&#160;&#160;Work closely with parents throughout the intervention process.</span></p><p><span>&#183;&#160;&#160;&#160;Gives talks, training or workshop to parents, teachers and other professionals.&#160;</span></p></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>Hatching Center is a center for children with special needs in Kuala Lumpur. It was set up when the founder noticed missing gaps in the education system for typical and atypical children. The founder of Hatching believes that every child should enjoy learning through play. We believe that every child should be ENABLE to PLAY, PLAY to <strong>LEARN, LEARN to GROW, GROW to EXCEL</strong>. We are here to help and prepare them for a better <strong>Quality of Life</strong>. We aimed to provide opportunities for every child to discover the potential within them.</div>
+<div>Our mission is to enable children through play&#8208;based approach in their development towards a quality of life with their families and society. Both typical and atypical children should be enabled through the different programs uniquely designed by Hatching. Part of our mission is to advocate and support different diverse communities and bring forward betterment for all.</div>
+<div>Hatching Center core principle of 'Quality Rather Than Quantity' envision us to develop and provide therapists and facilitators with recognized qualifications and relevant experience in approaches. Training and development is key to our providence to ensure the quality of our services.</div>
+<div>As a private institution and in line with our vision and mission, we also provide subsidies for families who are marginalized due to social&#8208;economic conditions.</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream hospital job in Petaling Jaya. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/speech-language-therapist-4569764?jobId=jobstreet-my-job-4569764" class="btn btn--warning" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 

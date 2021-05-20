@@ -1,0 +1,21 @@
+---
+title: "KPJ Klang Specialist Hospital Vacancies CLINICAL SURVEY OFFICER" 
+category: Jobs 
+date: 2021-05-20 
+excerpt: "KPJ Klang Specialist Hospital is currently looking for suitable person to fill in the CLINICAL SURVEY OFFICER which positioned at Klang/Port Klang" 
+tags: [Klang/Port Klang] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>KPJ Klang Specialist Hospital is looking for new potential candidates to fill in for <b>CLINICAL SURVEY OFFICER</b> position. If you currently looking for new healthcare job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include 300-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><p>The Clinical Survey Officer is overall responsible for implementing, monitoring compliance and improving clinical standards by coordinating, facilitating and leading&#160;&#160;clinical audit, educating, enabling&#160;and facilitating&#160;research (where applicable) in line with the Hospital MAC&#8217;s direction,&#160;KPJ Clinical Governing Policies and Procedures as well as legislative requirements.</p><ul><li><span>Work with the Quality services &#8211; in view of coordinating the Clinical Quality activities of the hospital.</span></li><li><span>Member of Clinical &amp; Quality Committee to&#160;ensure all required committees are being set according to PHFSA and KPJ requirement.</span></li><li><span>Organize periodic system / patient tracer survey, </span><span>ensure that clinical risk management process is implemented at all services </span>and coordinate periodic audit of medical records for completeness.</li><li><span>Review clinical outcome&#160;,statistic of morbidity and adverse event</span></li><li>Compile clinical reports on quality activities.</li><li>Conduct periodic compliance audit and submit report to Management and enforce compliance at all level.</li><li><span>Compliance to infection control (IC) requirement.</span></li><li>Facilitate in Clinical and Quality Certification.</li></ul><p>Requirements :</p><ul><li>Candidate must possess at least Diploma/Bachelor's Degree in Nursing, Quality Management or equivalent</li><li>Preferable 5 years working experience in the related field is required for this position</li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>Bandar Baru Klang Specialist Hospital (BBKSH) is the KPJ group's 21st hospital. A multi-specialty 'one stop' tertiary care hospital of international standard, BBKSH is fully committed in the pursuance of excellence by maintaining and providing exceptional standards on patient-care and delivering quality service with compassion.</p><p>A 123 beds acute care private medical facility equipped with modern operating theatres and medical equipment that incorporates the current technology, BBKSH is supported by a team of world class medical expertise and dedicated healthcare professionals.</p><p>BBKSH is ideally located and aesthetically laid out within the beautiful, well developed and busy township of Bandar Baru Klang and is easily accessible from the KL-Klang Federal Highway, Kesas Highway, Lebuhraya Damansara Puchong (LDP), Ekspressway Lingkaran Tengah (ELITE) and New Klang Valley Expressway (NKVE). KLGSH is also connected to various expressways i.e. to the Kuala Lumpur International Airport (KLIA) and the Seaport (Northport and Westport).</p><p>Located right in the center of bustling towns, BBKSH is also surrounded by established plus up &amp; coming residential and industrial areas such as Bandar Baru Klang, Setia Alam, Shah Alam, Kota Kemuning, Meru, Kapar, Taman Sungai Rasau and etc. all just within a 30-km radius.</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream hospital job in Klang/Port Klang. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/clinical-survey-officer-4571948?jobId=jobstreet-my-job-4571948" class="btn btn--warning" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 

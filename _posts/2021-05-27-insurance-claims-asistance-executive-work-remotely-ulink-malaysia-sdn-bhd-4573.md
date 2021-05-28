@@ -1,0 +1,21 @@
+---
+title: "Ulink Malaysia Sdn Bhd Vacancies Insurance Claims & Assistance Executive (Work Remotely)" 
+category: Jobs 
+date: 2021-05-27 
+excerpt: "Ulink Malaysia Sdn Bhd is currently looking for suitable person to fill in the Insurance Claims & Assistance Executive (Work Remotely) which positioned at Johor, Melaka, Penang, Perak, Sabah, Selangor, Sarawak, Pahang, Kuala Lumpur, Kedah" 
+tags: [Johor, Melaka, Penang, Perak, Sabah, Selangor, Sarawak, Pahang, Kuala Lumpur, Kedah] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Ulink Malaysia Sdn Bhd is looking for new potential candidates to fill in for <b>Insurance Claims & Assistance Executive (Work Remotely)</b> position. If you currently looking for new healthcare job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include 300-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><p><strong>Looking for multiple positions for remote-working team in Malaysia to support Singapore operations. RM4,000 &#8211; 9,000 salary depending on years of experience.</strong></p><p><strong>Medical Claims Assessment:</strong></p><ul><li>Claims adjudication for group and individual health insurance claims</li><li>Perform claims investigations and provide findings/chronological updates</li><li>Process pre-approval requests to facilitate cash-less treatment</li><li>Answer claims-related enquiries over hotline and email</li><li>Manage claims workflow and SLAs</li><li>Assist with policy administration</li><li>Submit monthly/ad-hoc reports to clients</li><li>Manage medical and non-medical providers</li></ul><p><strong>Medical Assistance:</strong></p><ul><li>Coordinate medical assistance and emergency medical evacuations</li><li>Arrange in- and out-patient treatment globally. Ensure proper communication with all stakeholders: members, next-of-kin, brokers, HR, providers, etc.</li><li>Provide travel assistance</li><li>Answer enquiries over hotline and email</li><li>Submit monthly/ad-hoc reports to stakeholders</li><li>Be on rotation for after-hours/night shift work</li></ul><p><strong>Optional:</strong></p><ul><li>Business development</li><li>Adhere to information security, BCP and other business continuity planning</li><li>Manage system enhancement projects</li></ul><p><strong>Job requirements:</strong></p><ul><li>Bachelor&#8217;s or post-graduate degree in biomedical sciences/nursing/pharmacy/insurance or related field</li><li>Minimum 4 years experience in TPA, medical/travel assistance or insurance operations</li><li>Be able to take initiative and work independently</li><li>Be resourceful and have strong problem-solving skills</li></ul><p><strong>For candidates looking for:</strong></p><ul><li>Work flexibility: permanent remote work</li><li>Multiple positions in Malaysia to support Singapore operations. RM4,000 &#8211; 9,000 salary depending on years of experience</li><li>Career advancement and opportunities to handle responsibilities</li><li>Exposure and learning opportunities in an entrepreneurial and team-based setting</li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>Founded in 1996, Ulink Assist is one of Singapore&#8217;s most experienced medical assistance providers. Every year, we coordinate &gt;2,000 medical assistance cases and process &gt;25,000 insurance claims. Interested in medical assistance operations and in working on entrepreneurial projects in a fast-growing company? http://ulinkassist.com </p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream hospital job in Johor, Melaka, Penang, Perak, Sabah, Selangor, Sarawak, Pahang, Kuala Lumpur, Kedah. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/insurance-claims-assistance-executive-work-remotely-4577333?jobId=jobstreet-my-job-4577333" class="btn btn--warning" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 

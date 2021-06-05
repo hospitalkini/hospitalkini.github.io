@@ -1,0 +1,30 @@
+---
+title: "Genting Cruise Lines Ship Management Sdn. Bhd. Vacancies DOCTOR (SHIP BASED)" 
+category: Jobs 
+date: 2021-06-04 
+excerpt: "Genting Cruise Lines Ship Management Sdn. Bhd. is currently looking for suitable person to fill in the DOCTOR (SHIP BASED) which positioned at Kuala Lumpur" 
+tags: [Kuala Lumpur] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Genting Cruise Lines Ship Management Sdn. Bhd. is looking for new potential candidates to fill in for <b>DOCTOR (SHIP BASED)</b> position. If you currently looking for new healthcare job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include 300-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><div><div><strong>Responsibilities:&#160;</strong></div><ul><li>The sole provider of medical care onboard the ship, a task in which he/her is assisted by the nurse(s).</li><li>Provide medical care to passengers and crew onboard.</li><li>In cahrge of the medical section and ultimately responsible for any action taken by any member of the medical section.</li><li>Ensure that all equipments in the medical centre and emergency medical bags are in good working order and service requirements are carried out per user manual/s and ship's maintenance system.</li><li>Ensure that sufficient level of medication is available onboard and that expiry dates are adhered to.</li><li>Ensure that everyone in the medical section is familiar with and adheres to all Star Cruises policies and procedures applicable to all crew in general and the medical section in particular.</li><li>Train nurses to be familiar with all medications, supplies and equipment.</li><li>Ensure that medical record keeping is carried out in an efficient way and as require by the company. All logbooks are to be updated.</li><li>Iniate investigation in case of any outbreak of food poisoning or in case of any highky contagious outbreaks such as GI or flu.</li><li>Keep all crew medical files in the medical centre. Ensure that each crewmember's medical file includes Star Cruises employment medical form or other approved form.</li><li>Be familiar with all aspects of the ship's emergency plan and own emergency duties.</li><li>Ensure training to crew who require "Basic First Aid" training, according to Star Cruises STCW trainign program, following the schedule arranged by the Safety Manager.</li><li>Assist Safety Manager in investigating the circumstances surrounding accidents onboard which were reported to the medical centre.</li><li>Complete the computerised SSMIS reports for accidents and injuries reported to the medical centre as per Company standard.</li><li>Apply cost control without compromising teh quality of service provided.</li><li>Submit weekly reports to the Staff Captain.</li></ul></div><div><strong>Requirements:&#160;</strong></div><ul><li>Doctor's degree with at least 3 years of experience, 2 years of which to be working in an Emergency room and/or intensive care unit.</li><li>Valid National doctor license/s without any remarks and flag state endorsed where applicable.</li><li>Valid ATLS (Advance Trauma Life Support) and ACLS (Advance Cardiac Life Support) certification.</li><li>very good spokend Mandarin and written English.</li><li>Applicants that possess the Safety Training certification as per Star Cruises STCW95 Training Program will have an added advantage</li><li>Trained and certified in specimen collection in connection with drug testing.</li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>
+	Genting Cruise Lines is a division of Genting Hong Kong comprising of three distinct cruise brands &#8211; Star Cruises, Dream Cruises and Crystal Cruises &#8211; providing a range of products from contemporary cruises to ultra-luxurious vacation experiences spanning the sea to air.</div>
+<div>
+	Crystal Cruises, Dream Cruises and Star Cruises unite to meet the needs of travellers across all segments and geographies who seek a broader set of experiences than ever before. It&#8217;s a point of pride for Genting Cruise Lines to offer something for everyone, from sea to land to sky, adding more modes of travel and more destinations as far as our imagination spans. When guests travel with Genting Cruise Lines, they travel with brands with the ambition to venture further and higher. The proof is in our DNA and rich history of trailblazing within the cruise landscape. Star Cruises built the Asia-Pacific region as an international cruise destination. Dream Cruises introduced inspirational journeys to Asia. Crystal Cruises has embarked on the most significant brand expansion in the history of luxury travel and hospitality, having introduced two new modes of cruising and private air travel. It&#8217;s this incomparable ambition and pioneering spirit that assures an exciting collection of innovative, leading travel experiences both now and in the future.</div>
+<div>
+<br>
+	We strive to surpass our guests&#8217; expectations on every journey and satisfy their appetites for new experiences. Our passion for hospitality and drive for continuous improvement ensures that the guest experience is outstanding every time they travel with us. For us, no itinerary is too short, or journey too long, for a voyage of a lifetime. We&#8217;re pleased to take our guests to the four corners of the globe.</div>
+<div>
+<br>
+	Come, join us and be part of the team that creates world-class cruise holiday experience for holidaymakers from around the world!</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream hospital job in Kuala Lumpur. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/doctor-ship-based-4583609?jobId=jobstreet-my-job-4583609" class="btn btn--warning" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 

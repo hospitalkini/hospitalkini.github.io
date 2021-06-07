@@ -1,0 +1,28 @@
+---
+title: "Regency Specialist Hospital Sdn Bhd Vacancies State Registered Nurse (Operation Theater)" 
+category: Jobs 
+date: 2021-06-07 
+excerpt: "Regency Specialist Hospital Sdn Bhd is currently looking for suitable person to fill in the State Registered Nurse (Operation Theater) which positioned at Johor" 
+tags: [Johor] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Regency Specialist Hospital Sdn Bhd is looking for new potential candidates to fill in for <b>State Registered Nurse (Operation Theater)</b> position. If you currently looking for new healthcare job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include 300-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><ul><li>Candidate must possess at least a Diploma, Advanced/Higher/Graduate Diploma, Bachelor's Degree, Post Graduate Diploma, Professional Degree, Nursing or equivalent.</li><li>Required skill(s): customer service, inter personal skill, communication, time management, delegation skill, Nursing Skill.</li><li>At least 3 year(s) of working experience in the related field is required for this position.</li><li>Preferably Junior Executives specializing in Healthcare - Nurse/Medical Support &amp; Assistant or equivalent.</li><li>Registered with the Malaysian Nursing Board with posses valid Annual Practicing Certificate</li><li>Full-Time position(s) available.</li></ul><ul><li>Perform preliminary cleaning inside Operating theater, including equipment&#8217;s with the current approved disinfectant solution and lint free cloth.</li><li>Performs anesthetic machine leaked test and ask anesthesiologist to verified before first case of the day commence</li><li>Ensure the Intubation trolley is complete and ready for the intubation/ difficult intubation situation.&#160;</li><li>Assist anesthesiologist in performing procedure such as, induction of general and regional anesthesia, CVP/Arterial/ Femoral line insertion, and during extubating patient and anticipates for possible crisis.</li><li>Ensure patient safety during the intra-operative phase by securing patient&#8217;s arm, body and other positioning devices as required by the anesthesiology/surgeon and supervises junior staff doing the same.</li><li>Monitor patient intra-operatively and communicate with surgical team regarding patient&#8217;s condition and anesthesia levels during procedures.</li><li>Ensure recovery area are fully function by checking E-trolley, defibrillator, patient&#8217;s monitor, suction Apparatus, Oxygen flow meter, warming devices are in good condition and clean.</li><li>Recovery Nurse must ensure all psychotropic drugs are checked, recorded signed daily, and verified by pharmacist monthly.</li><li>Assist in managing post anesthetic care of all patient in recovery area, until patient is fit to be discharged to ward/ clinic.</li><li>Assist anesthesiologist when performing procedure outside Operating Theater such as: Endoscopy Room, Radiology, ICU, ICL and Ward to ensure smooth running of the cases.</li><li>Monitor Temperature / Humidity of the following areas, Operating Theater, Medication fridge, Blood fridge, Specimen Freezer and Warming cabinet for solutions. Complete the surgical documentation before patient is discharge form recovery area.</li><li>Assist the Nurse Manager to manage staff within the ward/ the unit; establish two-way, trusting, open and positive relations; strengthen relationships; help staff understand their roles and responsibilities towards fulfillment of nursing and hospital&#8217;s vision, mission, goals and objectives; create a positive and cooperative image of nursing.</li><li>Assist the Nurse Manager to ensure smooth ward/ unit operations; alert to key happenings, investigate and problem-solve where required.</li><li>Assumes the role of ward/ unit in charge in the Nurse Manager&#8217;s absence; enlist assistance from the Nursing Coordinator</li><li>Performs role of Nursing Coordinator as assigned by superior.</li><li>Performs discipline or unit specific clinical procedures following relevant privileging and credentialing process as outlined by Nursing Services when posted to Operative.</li><li>Serves as a role model for staff and professional nursing practice; facilitates teambuilding and a safe, healthy work environment</li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>
+<div>
+		Regency Specialist Hospital (Regency) is a licensed 218-bed private tertiary care hospital providing a comprehensive range of medical and surgical services. Regency is the sister hospital of Mahkota Medical Centre in Malacca, a leading tertiary care hospital in Malaysia.</div>
+<div>
+		At Regency, patients are at the centre of what we do. Our team of experienced doctors and healthcare professionals deliver quality healthcare with warmth and passion.</div>
+<div>
+		Located in the eastern part of Iskandar Malaysia, in the growing township of Seri Alam, Masai, Johor, Regency is poised to provide premier healthcare services to the local community and the region.</div>
+</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream hospital job in Johor. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/state-registered-nurse-operation-theater-4583957?jobId=jobstreet-my-job-4583957" class="btn btn--warning" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 

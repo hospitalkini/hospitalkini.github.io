@@ -1,0 +1,21 @@
+---
+title: "Hyphens Pharma Sdn Bhd Vacancies Regulatory Affairs Executive" 
+category: Jobs 
+date: 2021-06-14 
+excerpt: "Hyphens Pharma Sdn Bhd is currently looking for suitable person to fill in the Regulatory Affairs Executive which positioned at Petaling Jaya" 
+tags: [Petaling Jaya] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Hyphens Pharma Sdn Bhd is looking for new potential candidates to fill in for <b>Regulatory Affairs Executive</b> position. If you currently looking for new healthcare job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include 300-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><p><strong>Hyphens is looking for a Regulatory Affairs Executive, join us today!</strong></p><p><strong><em>Regulatory Affairs Responsibilities</em></strong></p><ul><li>Support local regulatory work, including new product/devices/cosmetic products registration, variations and renewals</li><li>Co-ordination of regulatory related submission/correspondence with &#160;respective local health authorities <em>(including National Pharmaceutical Regulatory Agency, NPRA, Pharmacy Enforcement Divison and Medical Device Authority, MDA)</em></li><li>Maintenance of regulatory related database and licences such as product technical files maintenance, product complaint &amp; adverse drug reactions(ADRs) records, import and poison A licences, etc</li><li>Support local Pharmacovigilance(PV) system in reference to local regulatory requirements and SDEA with product principals</li><li>Assist with maintenance and preparation of local quality management system(SOPs) &#160;and internal audit in compliance to local regulatory requirements</li><li>Reviewing marketing materials and assist with advertisement application to ensure compliance to local regulations</li></ul><p><strong><em>Minimum requirements/qualifications:</em></strong></p><ul><li>Preferably a registered pharmacist recognized by Ministry of Health, Malaysia</li><li>Experience in regulatory affairs will be an added advantage &#160;</li><li>Interested to develop skills in product registration submission, maintenance of it while ensuring continuity of supply in market</li><li>Able to multi-tasking and embrace dynamic changes&#160;</li><li>Able to communicate fluently in both English &amp; Bahasa Malaysia (oral and written)</li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>We are a leading Specialty Pharmaceuticals company in South East Asia.&#160;With a geographical footprint in 30 cities across the South East Asian markets of Singapore, Indonesia, Malaysia, Philippines and Vietnam, Hyphens is Asean&#8217;s Leading Specialty Pharma Company.</p><p>We are a team that values the trust that our customers have within us and we work hard to maintain the relationships formed with our doctors and patients to consistently achieve our vision &#8211; to provide a better quality of life.</p><p>Headquartered in Singapore, we focus on the sales and marketing of premium quality pharmaceuticals from various therapeutic fields: Allergy &amp; ENT Dermatology, Gastroenterology, Obstetrics &amp; Gynaecology, Ophthalmology, Paediatrics and Perinatology, Radiology, and Rheumatology.</p><p>We at Hyphens ensure that unsurpassed services are provided to customers through the reliability of our people. We guarantee better value through the quality of our unparalleled pharmaceuticals which leads to excellent outcomes for doctors and patients. This has helped us pave the way in making a mark for ourselves in the Asean region.</p><p>We are seeking dedicated and like-minded individuals with a heart that cares for the betterment of doctors and patients to be an integral part of our Company.</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream hospital job in Petaling Jaya. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/regulatory-affairs-executive-4590199?jobId=jobstreet-my-job-4590199" class="btn btn--warning" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 

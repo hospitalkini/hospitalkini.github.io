@@ -1,0 +1,28 @@
+---
+title: "Regency Specialist Hospital Sdn Bhd Vacancies Senior Executive (Traditional Chinese Medicine)" 
+category: Jobs 
+date: 2021-06-18 
+excerpt: "Regency Specialist Hospital Sdn Bhd is currently looking for suitable person to fill in the Senior Executive (Traditional Chinese Medicine) which positioned at Johor" 
+tags: [Johor] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Regency Specialist Hospital Sdn Bhd is looking for new potential candidates to fill in for <b>Senior Executive (Traditional Chinese Medicine)</b> position. If you currently looking for new healthcare job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include 300-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><ul><li>Candidate must possess at least a Diploma, Advanced/Higher/Graduate Diploma, Bachelor's Degree, Post Graduate Diploma, Professional Degree, any field.</li><li>At least 4 year(s) of working experience in the related field is required for this position.</li><li>Applicants must be willing to work in Bandar Seri Alam,Masai.</li><li>Preferably Senior Executives specializing in Healthcare - Nurse/Medical Support &amp; Assistant or equivalent.</li><li>Full-Time position(s) available.</li></ul><div><strong>JOB DESCRIPTION</strong></div><div><strong>1. Engagement and Involvement</strong></div><ul><li><strong>U</strong>pdate job knowledge by participating in educational opportunities</li><li>Attend department meetings and activities</li><li>Conduct or participate in department quality improvement projects</li><li>Establish and maintain good rapport and working relationships with all medical professionals</li><li>Support the organization administration in the preparation, documentation, and implementation of any quality accreditation</li><li>Responsible to be engaged in the department quality indicators related tasks or activities</li><li>Monitor team performance and report on metrics</li><li>Discover training needs and provide coaching</li><li>Listen to team members&#8217; feedback and resolve any issues or conflicts</li><li>Handling bill collection on timely basis</li><li>Ensure team align as one to create the team work culture</li></ul><div><strong>2. Inventory Management</strong></div><ul><li>Assist with product selection</li><li>Manage stock levels and assist in stock control</li><li>Ensure receiving deliveries, unpacking and re-shelving or storing stock</li><li>Stock, replenish and monitor the cleanliness of the sales areas</li><li>Monitor expiry date of stocks</li><li>Conduct regular stock checks and participate in stock take exercise</li><li>Being vigilant at all times and to help minimize stock loss</li><li>Facilitate payments of various kinds</li></ul><div><strong>3. Safety, Environment and QA</strong></div><ul><li>Responsible for Quality Assurance and improve clinic productivity and effectiveness</li><li>Enforces Infection Control Standards for TCM clinic</li><li>Maintains a safe, orderly, pleasing environment</li><li>Ensure the tidiness and cleanliness of the facilities</li><li>Report any malfunctioning of facilities and equipment</li></ul><div><strong>4. Customer service</strong></div><ul><li>Offer advice to customers</li><li>Deal with customer feedbacks and comments</li><li>Maintaining customer database</li><li>Increase customer satisfaction and build loyalty through providing amazing, personalize customer support</li><li>Responds to and resolve customer queries</li></ul><div><strong>5. Sales and Promotion</strong></div><ul><li>Establish relationship through Continuous Professional Development programs and appropriate networking events</li><li>Assists practitioner/s with the recruitment of patients</li><li>Facilitate and organize health talks&#160;</li><li>Prepare yearly individual work plan, maintain practitioners&#8217; database, provide monthly report and prepare marketing proposal when necessary</li><li>Liaise with clients in all areas of sales</li><li>Lead and motivate team to increase sales and efficiency</li><li>Utilize specialist product knowledge</li><li>Monitor and update sales display area</li><li>Organize special promotions, displays and events</li><li>Assist in analyze sales figures and forecasting future sales volumes to maximize profits</li><li>Assist in analyze and interpreting trends to facilitate planning</li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>
+<div>
+		Regency Specialist Hospital (Regency) is a licensed 218-bed private tertiary care hospital providing a comprehensive range of medical and surgical services. Regency is the sister hospital of Mahkota Medical Centre in Malacca, a leading tertiary care hospital in Malaysia.</div>
+<div>
+		At Regency, patients are at the centre of what we do. Our team of experienced doctors and healthcare professionals deliver quality healthcare with warmth and passion.</div>
+<div>
+		Located in the eastern part of Iskandar Malaysia, in the growing township of Seri Alam, Masai, Johor, Regency is poised to provide premier healthcare services to the local community and the region.</div>
+</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream hospital job in Johor. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/senior-executive-traditional-chinese-medicine-4593084?jobId=jobstreet-my-job-4593084" class="btn btn--warning" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 

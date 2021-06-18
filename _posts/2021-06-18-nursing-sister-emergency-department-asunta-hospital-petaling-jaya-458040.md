@@ -1,0 +1,22 @@
+---
+title: "Assunta Hospital Petaling Jaya Vacancies Nursing Sister (Emergency Department)" 
+category: Jobs 
+date: 2021-06-18 
+excerpt: "Assunta Hospital Petaling Jaya is currently looking for suitable person to fill in the Nursing Sister (Emergency Department) which positioned at Selangor" 
+tags: [Selangor] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Assunta Hospital Petaling Jaya is looking for new potential candidates to fill in for <b>Nursing Sister (Emergency Department)</b> position. If you currently looking for new healthcare job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include 300-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><div><strong>Job Responsibilities</strong></div><ul><li>To plan and carry out a comprehensive intensive nursing care with team members for critically ill patients.</li><li>To work hand-in-hand with medical officers to provide high level of care in the unit.</li><li>To supervise range of tasks including performing point of care tests, monitoring patient status and responding to medical emergencies.</li><li>To monitor emergency resuscitation procedures, both cardiac respiratory whenever the need arises.</li><li>To ensure nursing assessment of patient&#8217;s physical, psychosocial, culture and spiritual needs by completing patient history and physical examination.</li><li>To provide care that demonstrated sensitivity to client diversity.</li><li>To supervise and monitor A&amp;E room facilities, equipment and instruments to be in proper working order at all times.</li><li>To provide leadership and direct intervention in emergency situation including ability to lead and respond to emergency codes.</li><li>To supervise and coach staff to improve in Emergency Trauma skills.</li><li>To display strong decision-making skills in emergency scenarios.</li><li>To provide effective leadership skills including highly developed skills in communication, problem solving, conflict resolution and negotiation skills.</li><li>To be able to work effectively within a multidisciplinary team.</li><li>To be able to review and improve models of care, to be person and family centred.</li><li>To demonstrate ability to foster a workplace environment that develops staff potential.</li><li>To have proven ability for flexibility, innovation and creativity with in the whole of ED service setting.</li><li>To demonstrate ability in the leadership and facilitation of change management.</li></ul><div><strong>Requirements</strong></div><ul><li>Candidate must possess a Graduate Diploma, Bachelor's Degree in Nursing.</li><li>Required skill(s): Nursing&#160; Management&#160; in Emergency / Trauma Care.</li><li>Required language(s): Bahasa Malaysia, English and any other languages is an added advantage.</li><li>At least 5 year(s) of working experience in Emergency Department.</li><li>Valid practicing / Annual Practicing Certificate (APC).</li><li>Specialize in Trauma or Emergency Nursing.</li><li>Has ATLS (Advance Trauma Life Support) would be preferred.</li><li>Preferably working experience as an ED Manager or Assistant ED Manager in ED and overseeing department operation matters.</li><li>Demonstrated competence in the relevant area of ED / trauma nursing and practice in accordance with the relevant standards.</li><li>Experience in management and leadership roles.</li><li>Full-Time position(s) available.</li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>
+	We are one of the leading and established healthcare providers in the Klang Valley with state of the art facilities and equipment. For over 64 years, we have grown in reputation and in size without compromising our obligation to the community in providing quality healthcare. With this dynamic growth we seek highly motivated and experienced professionals who share our passion for excellence and efficiency, to join us in meeting new challenges.</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream hospital job in Selangor. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/nursing-sister-emergency-department-4580440?jobId=jobstreet-my-job-4580440" class="btn btn--warning" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 

@@ -1,0 +1,21 @@
+---
+title: "YIMURA MEDICARE SDN. BHD. Vacancies Head Nurse (Postnatal care experienced)" 
+category: Jobs 
+date: 2021-06-23 
+excerpt: "YIMURA MEDICARE SDN. BHD. is currently looking for suitable person to fill in the Head Nurse (Postnatal care experienced) which positioned at Selangor" 
+tags: [Selangor] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>YIMURA MEDICARE SDN. BHD. is looking for new potential candidates to fill in for <b>Head Nurse (Postnatal care experienced)</b> position. If you currently looking for new healthcare job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include 300-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><p><strong>Job Description &amp; Responsibilities:</strong></p><ul><li>Oversee work of nursing department and supervise all medical services as per resident requirement in baby room and for mothers.</li><li>Mange recruitment of nursing staff and provide required training for same.</li><li>Maintain and provide update to all medical records and administer all necessary examinations for mothers/ babies and supervise efficient working of staff and coordinate with all relevant doctors and physicians (e.g. Obstetrician-Gynaecologist, Pediatrician, TCM, Physio, Nutritionist etc).</li><li>Set and implement Standard Operating Procedures and guidelines for baby rooms, mothers and babies daily care.</li><li>Prepare schedule for all shifts and ensure no overlapping and oversee all nursing facility according to confinement policies and manage all resources for same.</li><li>Develop quality assurance program for all nursing activities and maintain control standards on all work to prepare required reports and participate in meetings and assist to resolve all issues in nursing departments.</li><li>Provide orientation to all new employees and prepare training program for same as per requirement and implement all changes on systems and evaluate all continuous quality improvement programs and documents for same.</li><li>In charge of purchasing and inventory (stock take) of consumables/ medical products for mothers and babies, e.g. diapers, milk powder etc.</li><li>Advise and take care of any special dietary requirements as required for mothers and babies.</li><li>Any other nursing relevant duties as required by Management from time to time.</li></ul><p><strong>Job Requirements:</strong></p><ul><li>Candidate must possess at least Bachelor's Degree/Post Graduate Diploma/Professional Degree in Nursing or equivalent</li><li>Required language(s): English, Bahasa Malaysia</li><li>Experience in newborn care and postnatal care is an advantage</li><li>Must be willing to work in shift</li><li>Must be willing to work on weekend and public holiday</li><li>Patience and love baby</li><li>Registered with Malaysian Nursing Board and with valid Annual Practice Certificate (APC)</li><li>Full-Time position(s) available</li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>We are a healthcare group of companies, founded in 2007. Developing from Traditional Chinese Medicine clinics to Aesthetic clinic, Medicare centres, and Confinement centre, we are seeking talents who are passionate in this healthcare industry.</p><p>Our Company mission is to deliver highest quality, wholeheartedly and holistic care to our customers by empowering and encouraging our team to work together for the best Customer&#8217;s Quality of Life.</p><p>We aim to create a culture of learning and innovation in which employees are encouraged to express their thoughts and suggestions, so to unleash their potential whilst meeting goals. Here is where the values of Courage, Discipline, Trustworthy and Loyalty prosper.</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream hospital job in Selangor. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/head-nurse-postnatal-care-experienced-4596745?jobId=jobstreet-my-job-4596745" class="btn btn--warning" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
